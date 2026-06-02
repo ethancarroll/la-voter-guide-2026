@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Voter Guide — LA County June 2, 2026 Primary</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="topbar" id="topbar" hidden>
+    <button class="topbar__home" id="homeBtn" title="Back to start">🗳️ Voter Guide</button>
+    <div class="topbar__progress">
+      <div class="progress" aria-hidden="true"><div class="progress__bar" id="progressBar"></div></div>
+      <span class="topbar__count" id="progressCount"></span>
+    </div>
+    <button class="topbar__summary" id="gotoSummaryBtn">Review &amp; Summary →</button>
+  </header>
+
+  <main id="app" class="app" aria-live="polite"></main>
+
+  <footer class="sitefoot">
+    <p>Non-partisan voter guide • Independent, not affiliated with any campaign, party, or election official.
+       Always verify candidates and measures with your official ballot and
+       <a href="https://lavote.gov" target="_blank" rel="noopener">lavote.gov</a>.</p>
+  </footer>
+
+  <!-- ===== Templates ===== -->
+  <template id="tpl-welcome">
+    <section class="welcome card">
+      <div class="welcome__badge">Official-style guide • Non-partisan</div>
+      <h1 class="welcome__title"></h1>
+      <p class="welcome__sub"></p>
+      <ul class="welcome__facts"></ul>
+      <div class="welcome__disclaimer"></div>
+      <div class="welcome__actions">
+        <button class="btn btn--primary" id="startBtn">Start voting guide →</button>
+        <button class="btn btn--ghost" id="resumeBtn" hidden>Resume where I left off</button>
+        <button class="btn btn--ghost" id="jumpSummaryBtn" hidden>Jump to my summary</button>
+      </div>
+      <p class="welcome__count"></p>
+    </section>
+  </template>
+
+  <template id="tpl-contest">
+    <section class="contest">
+      <div class="contest__head">
+        <div class="contest__meta">
+          <span class="chip chip--page"></span>
+          <span class="chip chip--votefor"></span>
+        </div>
+        <h2 class="contest__office"></h2>
+        <p class="contest__sub"></p>
+        <p class="contest__note"></p>
+      </div>
+
+      <div class="contest__tools" hidden>
+        <input type="search" class="contest__search" placeholder="Filter candidates by name, party, or occupation…" />
+        <label class="toggle"><input type="checkbox" class="contest__majorfirst" checked /> Notable candidates first</label>
+      </div>
+
+      <div class="contest__measure" hidden></div>
+
+      <div class="options" role="radiogroup"></div>
+
+      <div class="contest__nav">
+        <button class="btn btn--ghost" id="prevBtn">← Previous</button>
+        <div class="contest__nav-mid">
+          <button class="btn btn--link" id="skipBtn">Skip / no selection</button>
+          <button class="btn btn--link" id="clearBtn" hidden>Clear my pick</button>
+        </div>
+        <button class="btn btn--primary" id="nextBtn">Next →</button>
+      </div>
+    </section>
+  </template>
+
+  <template id="tpl-summary">
+    <section class="summary">
+      <div class="summary__head card">
+        <h1>Your ballot summary</h1>
+        <p class="summary__lead"></p>
+        <div class="summary__actions">
+          <button class="btn btn--primary" id="printBtn">🖨️ Print</button>
+          <button class="btn btn--secondary" id="copyBtn">📋 Copy list</button>
+          <button class="btn btn--ghost" id="backToVotingBtn">← Back to voting</button>
+          <button class="btn btn--danger-ghost" id="resetBtn">Start over</button>
+        </div>
+        <p class="summary__copied" id="copiedMsg" hidden>Copied to clipboard ✓</p>
+      </div>
+      <div class="summary__list" id="summaryList"></div>
+      <p class="summary__disclaimer"></p>
+    </section>
+  </template>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

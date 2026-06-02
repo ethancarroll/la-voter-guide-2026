@@ -1,0 +1,8 @@
+# Original camera source photos (web copies live in assets/pages/)
+*.HEIC
+*.heic
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.log
