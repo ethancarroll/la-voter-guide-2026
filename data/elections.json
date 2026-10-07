@@ -1,0 +1,19 @@
+[
+  {
+    "id": "2026-11-general",
+    "title": "General Election",
+    "date": "2026-11-03",
+    "dateLabel": "November 3, 2026",
+    "place": "Los Angeles · LA County · California",
+    "file": "data/2026-11-general.json"
+  },
+  {
+    "id": "2026-06-primary",
+    "title": "Statewide Primary",
+    "date": "2026-06-02",
+    "dateLabel": "June 2, 2026",
+    "place": "Los Angeles County, CA",
+    "file": "data/2026-06-primary.json",
+    "legacyStorageKey": "voterGuide.picks.v1"
+  }
+]

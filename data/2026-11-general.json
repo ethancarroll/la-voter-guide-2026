@@ -1,0 +1,3469 @@
+{
+ "meta": {
+  "id": "2026-11-general",
+  "title": "LA County Voter Guide",
+  "election": "General Election",
+  "date": "November 3, 2026",
+  "jurisdiction": "City of Los Angeles · LA County · California",
+  "pages": 9,
+  "ballotNote": "Your paper ballot has 5 cards printed front and back (pages 1–9). Fill each circle completely with black or blue ink. You don't have to vote in every contest.",
+  "retentionExplainer": "Appellate justices are appointed by the governor and confirmed by the Commission on Judicial Appointments. Every 12 years (or at the first gubernatorial election after appointment) voters decide whether to keep them — no opponent runs. A YES vote keeps the justice for a new 12-year term; if NO wins, the governor appoints a replacement. California voters have removed justices only once (Chief Justice Rose Bird and two colleagues in 1986). Retention votes are meant to remove judges for serious misconduct or incompetence, not over single rulings.",
+  "disclaimer": "This guide is independent and non-partisan. Summaries attribute arguments to the people and groups who make them; inclusion of an argument is not an endorsement. Contest order and names were transcribed from a sample of the official ballot (precinct 9001430A) — always check your own ballot and <a href=\"https://www.lavote.gov\" target=\"_blank\" rel=\"noopener\">lavote.gov</a>. Research current as of October 6, 2026."
+ },
+ "contests": [
+  {
+   "id": "la-mayor",
+   "page": 1,
+   "column": 2,
+   "section": "City/Local",
+   "type": "candidate",
+   "office": "Mayor — City of Los Angeles",
+   "voteFor": 1,
+   "writeIn": false,
+   "note": "Nonpartisan runoff between the top two finishers in June. Both candidates are Democrats.",
+   "about": "The mayor runs city departments (LAPD, LAFD, sanitation, planning, etc.), proposes the ~$13B budget, appoints general managers and commissioners, and can veto City Council actions. Four-year term. The winner will oversee preparations for the 2028 Olympics.",
+   "candidates": [
+    {
+     "name": "Karen Bass",
+     "ballotName": "KAREN RUTH BASS",
+     "ballotOccupation": "Mayor, City of Los Angeles",
+     "party": null,
+     "incumbent": true,
+     "tier": "major",
+     "background": "Elected mayor in 2022 — the first woman to hold the job. Previously a U.S. Representative (2011–2022) and Speaker of the California Assembly. Founded the South LA nonprofit Community Coalition in 1990.",
+     "stands": [
+      "Homelessness: declared an emergency on day one and launched Inside Safe, which moves encampment residents into motels/interim housing; her campaign cites a ~17.5% drop in street homelessness in her first two years and 6,000+ people placed indoors.",
+      "Wants to dismantle the LA Homeless Services Authority (LAHSA) and put homeless services under direct city control.",
+      "Housing: Executive Directive 1 fast-tracks 100%-affordable projects; promotes adaptive reuse of offices.",
+      "Public safety: appointed Chief Jim McDonnell, supports expanding LAPD (roughly 9,500 officers now) and growing unarmed crisis-response teams; touts crime at a 60-year low.",
+      "Olympics: created an Office of Major Events and pledges independent audits so taxpayers aren't left with the bill.",
+      "Film jobs: pushing Sacramento for larger film tax credits and appointing a local film liaison.",
+      "Immigration: describes her stance toward federal raids as \"resistance with a purpose.\""
+     ],
+     "criticisms": [
+      "Palisades Fire: critics, including former candidate Spencer Pratt, fault her for being in Ghana when the January 2025 fire began and for city preparedness (e.g., an empty Santa Ynez reservoir). She has faced reporting that her office sought edits to the LAFD after-action report, which she denies.",
+      "She fired Fire Chief Kristin Crowley, who has since filed a wrongful-termination lawsuit.",
+      "Raman says Inside Safe is expensive (~$300–400M) and that about 40% of participants returned to homelessness, and criticizes Bass for resisting an independent audit of the program.",
+      "Raman argues the 2023 LAPD raise Bass backed helped create a ~$1B budget deficit that cut funding for streetlights, sidewalks and potholes.",
+      "Raman says the city lost ~40,000 film jobs under Bass and that only a fraction of ED1's claimed affordable units are actually under construction.",
+      "Polls cited by AP and LAist show her unfavorable ratings above 50%."
+     ],
+     "endorsements": "LA County Democratic Party, LA County Federation of Labor, Los Angeles Police Protective League, LA Area Chamber of Commerce, Gov. Gavin Newsom, Kamala Harris, Nancy Pelosi, EMILY's List.",
+     "sources": [
+      {
+       "label": "LAist – Mayor voter guide",
+       "url": "https://laist.com/news/politics/voter-guides/2026-election-california-general-los-angeles-mayor"
+      },
+      {
+       "label": "MyNewsLA – first runoff debate",
+       "url": "https://mynewsla.com/government/2026/08/20/bass-and-raman-clash-over-homelessness-in-first-mayoral-debate-ahead-of-runoff/"
+      },
+      {
+       "label": "FOX 11 LA – mayoral debate",
+       "url": "https://www.foxla.com/news/la-mayoral-debate-bass-pratt-raman-wildfires-homelessness"
+      },
+      {
+       "label": "AP – Raman advances to runoff",
+       "url": "https://www.news4jax.com/news/politics/2026/06/08/progressive-nithya-raman-advances-to-november-runoff-against-los-angeles-mayor-karen-bass/"
+      }
+     ]
+    },
+    {
+     "name": "Nithya Raman",
+     "ballotName": "NITHYA RAMAN",
+     "ballotOccupation": "Councilmember/Urban Planner",
+     "party": null,
+     "incumbent": false,
+     "tier": "major",
+     "background": "LA City Councilmember for District 4 (Hollywood Hills, Silver Lake, Sherman Oaks area) since 2020, when she became the first challenger in 18 years to unseat a sitting councilmember. Urban planner; born in India and moved to the U.S. at age 6. Elected with Democratic Socialists of America support. Chaired the council's Housing and Homelessness Committee.",
+     "stands": [
+      "Homelessness: \"real accountability\" — audit every city homelessness dollar on day one, publish performance dashboards, tie funding to results; would leave LAHSA for a new city homelessness bureau. Cites a ~49–54% drop in encampments in her district and pledges to halve street homelessness citywide by the 2028 Olympics.",
+      "Housing: build across every neighborhood; supports implementing state law SB 79 (density near transit) with city guidelines such as unit/height caps. Authored a 4% cap on annual rent increases for rent-stabilized units and touts \"the strongest tenant protections in city history.\"",
+      "Basic services: focus on streetlights, sidewalks and potholes; says past contracts created the deficit.",
+      "Police: keep the force at its current size, replace Chief McDonnell, and expand unarmed crisis response so officers focus on emergencies.",
+      "Film jobs: lobby for a state film tax credit as large as Georgia's or New Jersey's.",
+      "Olympics: demands enforceable liability caps; authored LA's sanctuary city ordinance.",
+      "Opposes loosening short-term-rental rules for the Olympics, saying it would displace tenants."
+     ],
+     "criticisms": [
+      "Bass argues Raman has been at City Hall \"twice as long as I have\" and chaired the homelessness committee, so she shares responsibility for the problems she criticizes.",
+      "Bass credits the drop in District 4 homelessness to Inside Safe, not Raman's own efforts.",
+      "Bass and Pratt note Raman voted against expanding anti-camping (41.18) zones.",
+      "Bass points to a 2020 social-media post in which Raman expressed support for \"defunding the police\" and calls her inconsistent on public safety.",
+      "Bass says Raman lacks the experience and support to carry out her plans. AP framed the race as a test of whether voters want to move the city further left, given Raman's DSA backing."
+     ],
+     "endorsements": "Democratic Socialists of America, City Controller Kenneth Mejia, Progressive LA, UNITE HERE Local 11.",
+     "sources": [
+      {
+       "label": "LAist – Mayor voter guide",
+       "url": "https://laist.com/news/politics/voter-guides/2026-election-california-general-los-angeles-mayor"
+      },
+      {
+       "label": "MyNewsLA – first runoff debate",
+       "url": "https://mynewsla.com/government/2026/08/20/bass-and-raman-clash-over-homelessness-in-first-mayoral-debate-ahead-of-runoff/"
+      },
+      {
+       "label": "FOX 11 LA – mayoral debate",
+       "url": "https://www.foxla.com/news/la-mayoral-debate-bass-pratt-raman-wildfires-homelessness"
+      },
+      {
+       "label": "AP – Raman advances to runoff",
+       "url": "https://www.news4jax.com/news/politics/2026/06/08/progressive-nithya-raman-advances-to-november-runoff-against-los-angeles-mayor-karen-bass/"
+      }
+     ]
+    }
+   ],
+   "order": 1
+  },
+  {
+   "id": "la-city-attorney",
+   "page": 1,
+   "column": 2,
+   "section": "City/Local",
+   "type": "candidate",
+   "office": "City Attorney — City of Los Angeles",
+   "voteFor": 1,
+   "writeIn": false,
+   "note": "Open seat in practice: incumbent Hydee Feldstein Soto finished third in June. Nonpartisan runoff.",
+   "about": "The City Attorney is the city's lawyer (defending it in lawsuits, advising the council) AND the prosecutor for misdemeanors committed in LA (e.g., DUIs, petty theft, some gun crimes). Four-year term.",
+   "candidates": [
+    {
+     "name": "Marissa Roy",
+     "ballotName": "MARISSA ROY",
+     "ballotOccupation": "Deputy Attorney General",
+     "party": null,
+     "incumbent": false,
+     "tier": "major",
+     "background": "California deputy attorney general under Rob Bonta, focused on consumer protection. Earlier worked in the LA City Attorney's office as a fellow, represented LA County in litigation against the first Trump administration, and worked at the Public Rights Project. Monrovia native; 34. Led the June primary with ~43%.",
+     "stands": [
+      "Run the office as a \"public interest law firm\" — affirmative lawsuits against wage theft and abusive landlords.",
+      "Create a dedicated Tenants' Rights Team and significantly increase wage-theft investigators.",
+      "\"Care-first\" approach to homelessness rather than enforcement-led.",
+      "Use the office as a legal check on the Trump administration (immigration raids, federal funding)."
+     ],
+     "criticisms": [
+      "McKinney says her reluctance to enforce the encampment ban and \"George Gascón-like\" crime policies make her \"too extreme and out of touch.\"",
+      "Feldstein Soto called some of her promises \"insane\" and noted she has little experience defending the city in large civil lawsuits, the office's biggest financial exposure.",
+      "The LA Times reported she is backed by a PAC funded partly by lawyers whose firms frequently sue the city."
+     ],
+     "endorsements": "U.S. Senators Adam Schiff and Alex Padilla, City Controller Kenneth Mejia, Planned Parenthood Advocacy Project LA County.",
+     "sources": [
+      {
+       "label": "LAist – City Attorney voter guide",
+       "url": "https://laist.com/news/politics/voter-guides/2026-election-california-general-los-angeles-city-attorney"
+      },
+      {
+       "label": "LA Times – inside the city attorney race",
+       "url": "https://www.yahoo.com/news/politics/articles/leaked-files-nuclear-verdicts-bruising-100000226.html"
+      },
+      {
+       "label": "LA Public Press – who is running",
+       "url": "https://lapublicpress.org/2026/03/la-city-attorney-election-2026/"
+      }
+     ]
+    },
+    {
+     "name": "John McKinney",
+     "ballotName": "JOHN MCKINNEY",
+     "ballotOccupation": "Deputy District Attorney",
+     "party": null,
+     "incumbent": false,
+     "tier": "major",
+     "background": "LA County prosecutor for nearly 30 years; has tried ~40 murder cases, including the Nipsey Hussle case, and heads the DA's bureau of specialized prosecutions. Ran for District Attorney in 2024. UCLA Law graduate; 58.",
+     "stands": [
+      "Public safety first: tougher prosecution of misdemeanor gun crimes and animal abuse.",
+      "\"Compassionate accountability\" on homelessness: enforce laws against encampments that block the public right-of-way or pose health risks while lining up services, using arrests as leverage into treatment.",
+      "Reduce what the city pays out in lawsuits."
+     ],
+     "criticisms": [
+      "Roy and others note he has no civil-litigation background, though defending the city in civil suits is a core part of the job.",
+      "Roy criticized him for benefiting from ~$1.7M in independent spending by an Airbnb-backed PAC — a company the City Attorney's office sued over alleged wildfire price-gouging.",
+      "Critics say his campaign's comparisons of opponents to former DA George Gascón are fear-based."
+     ],
+     "endorsements": "Los Angeles Police Protective League, LA County DA Nathan Hochman, Councilmember Traci Park.",
+     "sources": [
+      {
+       "label": "LAist – City Attorney voter guide",
+       "url": "https://laist.com/news/politics/voter-guides/2026-election-california-general-los-angeles-city-attorney"
+      },
+      {
+       "label": "LA Times – inside the city attorney race",
+       "url": "https://www.yahoo.com/news/politics/articles/leaked-files-nuclear-verdicts-bruising-100000226.html"
+      },
+      {
+       "label": "LA Public Press – who is running",
+       "url": "https://lapublicpress.org/2026/03/la-city-attorney-election-2026/"
+      }
+     ]
+    }
+   ],
+   "order": 2
+  },
+  {
+   "id": "laccd-2",
+   "page": 1,
+   "column": 2,
+   "section": "City/Local",
+   "type": "candidate",
+   "office": "LA Community College District Trustee — Seat 2",
+   "voteFor": 1,
+   "writeIn": true,
+   "note": "Roy Payan has suspended their campaign but still appears on the ballot.",
+   "about": "The Los Angeles Community College District runs nine colleges (City, East LA, Harbor, Mission, Pierce, Southwest, Trade-Tech, Valley and West LA) serving roughly 200,000 students. The seven trustees are elected district-wide, set the budget, oversee construction bond spending, and hire the chancellor. Nonpartisan office; four-year terms. Whoever gets the most votes wins.",
+   "candidates": [
+    {
+     "name": "Adriana Cabrera",
+     "ballotName": "ADRIANA CABRERA",
+     "ballotOccupation": "Educator",
+     "party": null,
+     "incumbent": false,
+     "tier": "minor",
+     "background": "Educator, 34; attended community college; degrees in Chicana/o studies, political science and education; co-founded a youth-empowerment organization.",
+     "stands": [
+      "Invest in accessible student services and stronger financial aid.",
+      "Connect education to economic mobility.",
+      "More community voice and transparency in budget decisions. \"I am not coming into this role to learn higher education after I am elected.\""
+     ],
+     "criticisms": [
+      "No published criticism found; she has not held elected office."
+     ],
+     "endorsements": "",
+     "sources": [
+      {
+       "label": "LA Times – LACCD Seat 2 guide",
+       "url": "https://www.yahoo.com/news/politics/articles/guide-los-angeles-community-college-100000114.html"
+      }
+     ]
+    },
+    {
+     "name": "Roy Payan",
+     "ballotName": "ROY PAYAN",
+     "ballotOccupation": "Disabled Student Advocate",
+     "party": null,
+     "incumbent": false,
+     "tier": "minor",
+     "background": "Disabled student advocate. Campaign suspended; still on the ballot.",
+     "stands": [],
+     "criticisms": [],
+     "endorsements": "",
+     "sources": [
+      {
+       "label": "LA Times – LACCD Seat 2 guide",
+       "url": "https://www.yahoo.com/news/politics/articles/guide-los-angeles-community-college-100000114.html"
+      }
+     ]
+    },
+    {
+     "name": "Robert Payne",
+     "ballotName": "ROBERT PAYNE",
+     "ballotOccupation": "Researcher/Writer/Environmentalist",
+     "party": null,
+     "incumbent": false,
+     "tier": "minor",
+     "background": "77; former L.A. Mission College instructor and community college graduate; worked on film crews and in an import business.",
+     "stands": [
+      "Make colleges \"cheaper, faster, better\" through job training and free/affordable online textbooks.",
+      "Show students immediate career value to reverse weak enrollment."
+     ],
+     "criticisms": [
+      "No published criticism found; limited campaign activity reported."
+     ],
+     "endorsements": "",
+     "sources": [
+      {
+       "label": "LA Times – LACCD Seat 2 guide",
+       "url": "https://www.yahoo.com/news/politics/articles/guide-los-angeles-community-college-100000114.html"
+      }
+     ]
+    },
+    {
+     "name": "Kristina Irwin",
+     "ballotName": "KRISTINA IRWIN",
+     "ballotOccupation": "Parent/Business Owner",
+     "party": null,
+     "incumbent": false,
+     "tier": "minor",
+     "background": "50; former community college student; serves on a Santa Monica College advisory board; school board experience during the Palisades Fire.",
+     "stands": [
+      "Pre-entry/bridge programs in high schools so students arrive college-ready.",
+      "Better resources for educators."
+     ],
+     "criticisms": [
+      "No published criticism found."
+     ],
+     "endorsements": "",
+     "sources": [
+      {
+       "label": "LA Times – LACCD Seat 2 guide",
+       "url": "https://www.yahoo.com/news/politics/articles/guide-los-angeles-community-college-100000114.html"
+      }
+     ]
+    },
+    {
+     "name": "Steven Veres",
+     "ballotName": "STEVEN F. VERES",
+     "ballotOccupation": "LACCD Board of Trustees Member",
+     "party": null,
+     "incumbent": true,
+     "tier": "major",
+     "background": "Incumbent trustee, 50; former teacher and adviser to state Sen. María Elena Durazo.",
+     "stands": [
+      "Address students' housing, food and transportation costs.",
+      "Raise completion and transfer rates; easier applications and more flexible schedules.",
+      "Expand paid internships and employer partnerships; pair fiscal discipline with enrollment growth."
+     ],
+     "criticisms": [
+      "No specific criticism of his record found in the coverage reviewed."
+     ],
+     "endorsements": "La Opinión editorial board.",
+     "sources": [
+      {
+       "label": "LA Times – LACCD Seat 2 guide",
+       "url": "https://www.yahoo.com/news/politics/articles/guide-los-angeles-community-college-100000114.html"
+      },
+      {
+       "label": "La Opinión editorial",
+       "url": "https://laopinion.com/2026/10/03/editorial-por-la-reeleccion-de-steve-veres/"
+      }
+     ]
+    }
+   ],
+   "order": 3
+  },
+  {
+   "id": "laccd-4",
+   "page": 1,
+   "column": 3,
+   "section": "City/Local",
+   "type": "candidate",
+   "office": "LA Community College District Trustee — Seat 4",
+   "voteFor": 1,
+   "writeIn": true,
+   "note": "Open seat with seven candidates. Little independent coverage exists for several of them.",
+   "about": "The Los Angeles Community College District runs nine colleges (City, East LA, Harbor, Mission, Pierce, Southwest, Trade-Tech, Valley and West LA) serving roughly 200,000 students. The seven trustees are elected district-wide, set the budget, oversee construction bond spending, and hire the chancellor. Nonpartisan office; four-year terms. Whoever gets the most votes wins.",
+   "candidates": [
+    {
+     "name": "Darryn Harris",
+     "ballotName": "DARRYN HARRIS",
+     "ballotOccupation": "Community College Educator",
+     "party": null,
+     "incumbent": false,
+     "tier": "minor",
+     "background": "42; government/community affairs officer at St. John's Health; recent Santa Monica College instructor; former congressional and mayoral aide.",
+     "stands": [
+      "Build low-cost student housing; improve access to basic needs.",
+      "Better counseling and career training. \"Listen to the people closest to the work.\""
+     ],
+     "criticisms": [],
+     "endorsements": "",
+     "sources": [
+      {
+       "label": "LA Times – LACCD Seat 4 guide",
+       "url": "https://www.yahoo.com/news/politics/articles/guide-los-angeles-community-college-100000834.html"
+      }
+     ]
+    },
+    {
+     "name": "Nancy Pearlman",
+     "ballotName": "NANCY PEARLMAN",
+     "ballotOccupation": "Environmentalist/Anthropologist/Educator",
+     "party": null,
+     "incumbent": false,
+     "tier": "minor",
+     "background": "78; served on this board 2001–2017; part-time instructor in the district for decades; involved with LACCD since attending City College in 1968.",
+     "stands": [
+      "Reverse low enrollment and strengthen student support.",
+      "Pay equity for part-time faculty.",
+      "Sustainable construction."
+     ],
+     "criticisms": [
+      "No specific criticism found in the coverage reviewed."
+     ],
+     "endorsements": "",
+     "sources": [
+      {
+       "label": "LA Times – LACCD Seat 4 guide",
+       "url": "https://www.yahoo.com/news/politics/articles/guide-los-angeles-community-college-100000834.html"
+      }
+     ]
+    },
+    {
+     "name": "Elaine Alaniz",
+     "ballotName": "ELAINE ALANIZ",
+     "ballotOccupation": "Healthcare Workforce Specialist",
+     "party": null,
+     "incumbent": false,
+     "tier": "minor",
+     "background": "45; earned associate degrees at LACCD colleges; workforce-development specialist; public affairs officer for the U.S. Small Business Administration.",
+     "stands": [
+      "Align instruction with workforce demand; more industry-credential programs.",
+      "Expand digital access."
+     ],
+     "criticisms": [],
+     "endorsements": "",
+     "sources": [
+      {
+       "label": "LA Times – LACCD Seat 4 guide",
+       "url": "https://www.yahoo.com/news/politics/articles/guide-los-angeles-community-college-100000834.html"
+      }
+     ]
+    },
+    {
+     "name": "Isidro J. Armenta",
+     "ballotName": "ISIDRO J. ARMENTA",
+     "ballotOccupation": "Fire Department Employee",
+     "party": null,
+     "incumbent": false,
+     "tier": "minor",
+     "background": "Fire department employee. Did not respond to the LA Times questionnaire; little public information available.",
+     "stands": [],
+     "criticisms": [],
+     "endorsements": "",
+     "sources": [
+      {
+       "label": "LA Times – LACCD Seat 4 guide",
+       "url": "https://www.yahoo.com/news/politics/articles/guide-los-angeles-community-college-100000834.html"
+      }
+     ]
+    },
+    {
+     "name": "Jason R. Aula",
+     "ballotName": "JASON R. AULA",
+     "ballotOccupation": "Business Owner/Journalist",
+     "party": null,
+     "incumbent": false,
+     "tier": "minor",
+     "background": "41; political consultant and tech entrepreneur.",
+     "stands": [
+      "Says he will root out financial fraud; proposed restricting enrollment of noncitizens."
+     ],
+     "criticisms": [
+      "The LA Times declined to publish significant portions of his questionnaire answers, saying they contained unsubstantiated allegations."
+     ],
+     "endorsements": "",
+     "sources": [
+      {
+       "label": "LA Times – LACCD Seat 4 guide",
+       "url": "https://www.yahoo.com/news/politics/articles/guide-los-angeles-community-college-100000834.html"
+      }
+     ]
+    },
+    {
+     "name": "Adam Bruno",
+     "ballotName": "ADAM BRUNO",
+     "ballotOccupation": "",
+     "party": null,
+     "incumbent": false,
+     "tier": "minor",
+     "background": "42; therapist; attended community college. No ballot occupation listed.",
+     "stands": [
+      "Increase enrollment and accessibility; explore student stipends.",
+      "Better pay for educators."
+     ],
+     "criticisms": [],
+     "endorsements": "",
+     "sources": [
+      {
+       "label": "LA Times – LACCD Seat 4 guide",
+       "url": "https://www.yahoo.com/news/politics/articles/guide-los-angeles-community-college-100000834.html"
+      }
+     ]
+    },
+    {
+     "name": "Priscilla Umana",
+     "ballotName": "PRISCILLA UMANA",
+     "ballotOccupation": "ASL Educational Interpreter",
+     "party": null,
+     "incumbent": false,
+     "tier": "minor",
+     "background": "43; American Sign Language educational interpreter.",
+     "stands": [
+      "Expand housing and food aid for students.",
+      "Remove language and disability barriers."
+     ],
+     "criticisms": [],
+     "endorsements": "",
+     "sources": [
+      {
+       "label": "LA Times – LACCD Seat 4 guide",
+       "url": "https://www.yahoo.com/news/politics/articles/guide-los-angeles-community-college-100000834.html"
+      }
+     ]
+    }
+   ],
+   "order": 4
+  },
+  {
+   "id": "laccd-6",
+   "page": 1,
+   "column": 3,
+   "section": "City/Local",
+   "type": "candidate",
+   "office": "LA Community College District Trustee — Seat 6",
+   "voteFor": 1,
+   "writeIn": true,
+   "note": "",
+   "about": "The Los Angeles Community College District runs nine colleges (City, East LA, Harbor, Mission, Pierce, Southwest, Trade-Tech, Valley and West LA) serving roughly 200,000 students. The seven trustees are elected district-wide, set the budget, oversee construction bond spending, and hire the chancellor. Nonpartisan office; four-year terms. Whoever gets the most votes wins.",
+   "candidates": [
+    {
+     "name": "Randall Winston",
+     "ballotName": "RANDALL WINSTON",
+     "ballotOccupation": "Architect",
+     "party": null,
+     "incumbent": false,
+     "tier": "major",
+     "background": "44; licensed architect and attorney; former LA Deputy Mayor for Infrastructure under Mayor Bass and former executive director of the California Strategic Growth Council.",
+     "stands": [
+      "Grow enrollment to raise state funding; dual enrollment with high schools.",
+      "Apprenticeships and union career pathways; veteran and first-generation student support.",
+      "Tighter oversight of construction. \"What I won't do is balance budgets on instruction.\""
+     ],
+     "criticisms": [
+      "No specific criticism found in the coverage reviewed."
+     ],
+     "endorsements": "",
+     "sources": [
+      {
+       "label": "LA Times – LACCD Seat 6 guide",
+       "url": "https://www.yahoo.com/news/politics/articles/guide-los-angeles-community-college-100000715.html"
+      }
+     ]
+    },
+    {
+     "name": "Tonia Arey",
+     "ballotName": "TONIA AREY",
+     "ballotOccupation": "Realtor",
+     "party": null,
+     "incumbent": false,
+     "tier": "minor",
+     "background": "56; Realtor; previously ran unsuccessfully for county supervisor.",
+     "stands": [
+      "Campus safety, career readiness and accountability.",
+      "Scrutinize budgets for waste; prioritize classroom instruction; simpler enrollment."
+     ],
+     "criticisms": [],
+     "endorsements": "",
+     "sources": [
+      {
+       "label": "LA Times – LACCD Seat 6 guide",
+       "url": "https://www.yahoo.com/news/politics/articles/guide-los-angeles-community-college-100000715.html"
+      }
+     ]
+    },
+    {
+     "name": "Roberto David LaCarra",
+     "ballotName": "ROBERTO DAVID LACARRA",
+     "ballotOccupation": "Community College Professor",
+     "party": null,
+     "incumbent": false,
+     "tier": "minor",
+     "background": "Community college professor. Did not respond to the LA Times questionnaire; little public information available.",
+     "stands": [],
+     "criticisms": [],
+     "endorsements": "",
+     "sources": [
+      {
+       "label": "LA Times – LACCD Seat 6 guide",
+       "url": "https://www.yahoo.com/news/politics/articles/guide-los-angeles-community-college-100000715.html"
+      }
+     ]
+    },
+    {
+     "name": "Gabriel Buelna",
+     "ballotName": "GABRIEL BUELNA",
+     "ballotOccupation": "LACCD Trustee, Seat 6",
+     "party": null,
+     "incumbent": true,
+     "tier": "major",
+     "background": "Incumbent trustee, 54; attorney; teaches history and political science at Cal State Northridge; former head of Plaza Community Services.",
+     "stands": [
+      "Affordability: \"making sure they can afford to remain enrolled\" — $500M toward student housing, more food assistance.",
+      "Career technical education and multilingual support.",
+      "Responsible stewardship of bond money and construction."
+     ],
+     "criticisms": [
+      "No specific criticism of his record found in the coverage reviewed."
+     ],
+     "endorsements": "",
+     "sources": [
+      {
+       "label": "LA Times – LACCD Seat 6 guide",
+       "url": "https://www.yahoo.com/news/politics/articles/guide-los-angeles-community-college-100000715.html"
+      }
+     ]
+    }
+   ],
+   "order": 5
+  },
+  {
+   "id": "sd-24",
+   "page": 1,
+   "column": 3,
+   "section": "State",
+   "type": "candidate",
+   "office": "State Senator — 24th District",
+   "voteFor": 1,
+   "writeIn": false,
+   "note": "Open seat (Ben Allen is termed out). Top-two runoff between two Democrats. Covers the Westside, Santa Monica, Beverly Hills, West Hollywood, Palisades, South Bay coast.",
+   "about": "State senators write and vote on state laws and the state budget. Four-year term.",
+   "candidates": [
+    {
+     "name": "Brian Goldsmith",
+     "ballotName": "BRIAN GOLDSMITH",
+     "ballotOccupation": "Small Business Owner",
+     "party": "Democratic",
+     "incumbent": false,
+     "tier": "major",
+     "background": "Beverly Hills-based journalist, lawyer and Democratic consultant; first run for office.",
+     "stands": [
+      "Public safety and cost of living are his central themes.",
+      "Fully fund Proposition 36 (2024 measure raising penalties for drug and theft crimes); adequate staffing for law enforcement.",
+      "Combat rising antisemitism and hate crimes."
+     ],
+     "criticisms": [
+      "WEHO Online reported his campaign is heavily self- and family-funded (≈$1M of his own money plus a $400K family contribution to an outside committee), which critics of big-money campaigns object to.",
+      "This is his first run for office, so he has no voting record to judge."
+     ],
+     "endorsements": "Nancy Pelosi, Hillary Clinton, Pete Buttigieg, LA County DA Nathan Hochman, Santa Monica Democratic Club.",
+     "sources": [
+      {
+       "label": "Daily Bruin – SD-24 general election",
+       "url": "https://dailybruin.com/2026/06/13/erickson-goldsmith-advance-to-november-general-for-california-senate-district-24"
+      },
+      {
+       "label": "WEHO Online – following the money in SD-24",
+       "url": "https://wehoonline.com/as-west-hollywood-reels-from-two-shootings-follow-the-money-in-the-sd-24-senate-race/"
+      },
+      {
+       "label": "Hoodline – Santa Monica Dems endorse",
+       "url": "https://hoodline.com/2026/09/santa-monica-democrats-back-goldsmith-over-erickson-for-state-senate-seat/"
+      }
+     ]
+    },
+    {
+     "name": "John Erickson",
+     "ballotName": "JOHN M. ERICKSON",
+     "ballotOccupation": "Councilmember",
+     "party": "Democratic",
+     "incumbent": false,
+     "tier": "major",
+     "background": "West Hollywood city councilmember and former mayor. Finished first in the June primary (20.5%).",
+     "stands": [
+      "Housing affordability, health care and climate.",
+      "\"Making California more safe and affordable.\""
+     ],
+     "criticisms": [
+      "WEHO Online reported shifts on public safety: he opposed cutting sheriff's deputies in early 2022, later voted for cuts, and voted against expanding Flock license-plate cameras.",
+      "Much of his outside support comes from unions (teachers, UNITE HERE, domestic workers), which opponents frame as special-interest backing."
+     ],
+     "endorsements": "Teachers' unions, United Domestic Workers, UNITE HERE Local 11.",
+     "sources": [
+      {
+       "label": "Daily Bruin – SD-24 general election",
+       "url": "https://dailybruin.com/2026/06/13/erickson-goldsmith-advance-to-november-general-for-california-senate-district-24"
+      },
+      {
+       "label": "WEHO Online – following the money in SD-24",
+       "url": "https://wehoonline.com/as-west-hollywood-reels-from-two-shootings-follow-the-money-in-the-sd-24-senate-race/"
+      },
+      {
+       "label": "Beverly Press – SD-24 forum",
+       "url": "https://beverlypress.com/2026/09/goldsmith-and-erickson-discuss-hate-crimes-at-senate-forum/"
+      }
+     ]
+    }
+   ],
+   "order": 6
+  },
+  {
+   "id": "ad-51",
+   "page": 2,
+   "column": 1,
+   "section": "State",
+   "type": "candidate",
+   "office": "Member of the State Assembly — 51st District",
+   "voteFor": 1,
+   "writeIn": false,
+   "note": "Top-two runoff between two Democrats. Covers Westwood/UCLA, Hollywood, West Hollywood, parts of Santa Monica and central LA.",
+   "about": "Assemblymembers write and vote on state laws and the budget. Two-year term.",
+   "candidates": [
+    {
+     "name": "Colin D. Hernandez",
+     "ballotName": "COLIN D. HERNANDEZ",
+     "ballotOccupation": "Digital Communication Strategist",
+     "party": "Democratic",
+     "incumbent": false,
+     "tier": "minor",
+     "background": "35-year-old digital communications strategist; describes himself as from a working-class background. First run for office; won 20.6% in June.",
+     "stands": [
+      "Medicare for All at the state level.",
+      "Universal childcare and expanded housing options to address affordability.",
+      "\"People want to vote for someone who stands for something rather than against something.\""
+     ],
+     "criticisms": [
+      "Has no legislative or governing record to evaluate; finished well behind the incumbent in June."
+     ],
+     "endorsements": "UCLA Young Democratic Socialists of America.",
+     "sources": [
+      {
+       "label": "Daily Bruin – AD-51 general election",
+       "url": "https://dailybruin.com/2026/06/06/rick-chavez-zbur-colin-hernandez-advance-to-state-assembly-general-election"
+      },
+      {
+       "label": "Daily Bruin – AD-51 primary candidates",
+       "url": "https://dailybruin.com/2026/05/22/5-candidates-are-running-in-primary-to-represent-california-assembly-district-51"
+      }
+     ]
+    },
+    {
+     "name": "Rick Chavez Zbur",
+     "ballotName": "RICK CHAVEZ ZBUR",
+     "ballotOccupation": "California Assemblymember",
+     "party": "Democratic",
+     "incumbent": true,
+     "tier": "major",
+     "background": "Elected 2022, reelected 2024 with 75%. Longtime LGBTQ+ rights advocate (former head of Equality California) and environmental attorney. Won 54.2% in June.",
+     "stands": [
+      "Authored or carried bills on medical-data privacy (including protecting reproductive and gender-affirming care records), climate, housing affordability and reproductive rights.",
+      "Pushing back on Trump administration policies affecting California."
+     ],
+     "criticisms": [
+      "Hernandez frames the race as a choice for someone who \"stands for something\" — arguing for bolder steps (single-payer, universal childcare) than the incumbent has delivered."
+     ],
+     "endorsements": "California Young Democrats, California Nurses Association.",
+     "sources": [
+      {
+       "label": "Daily Bruin – AD-51 general election",
+       "url": "https://dailybruin.com/2026/06/06/rick-chavez-zbur-colin-hernandez-advance-to-state-assembly-general-election"
+      },
+      {
+       "label": "CalMatters Digital Democracy – Zbur record",
+       "url": "https://calmatters.digitaldemocracy.org/legislators/rick-chavez-zbur-165429"
+      }
+     ]
+    }
+   ],
+   "order": 7
+  },
+  {
+   "id": "us-house-30",
+   "page": 2,
+   "column": 1,
+   "section": "Federal",
+   "type": "candidate",
+   "office": "U.S. Representative — 30th District",
+   "voteFor": 1,
+   "writeIn": false,
+   "note": "Covers Burbank, Glendale, Hollywood, West Hollywood, parts of the Westside and San Fernando Valley.",
+   "about": "Members of the U.S. House write federal laws, approve federal spending and oversee the executive branch. Two-year term.",
+   "candidates": [
+    {
+     "name": "Laura Friedman",
+     "ballotName": "LAURA FRIEDMAN",
+     "ballotOccupation": "Member, United States House of Representatives",
+     "party": "Democratic",
+     "incumbent": true,
+     "tier": "major",
+     "background": "Elected to Congress in 2024 to succeed Adam Schiff. Previously served in the California Assembly (2016–2024), where she chaired the Transportation Committee, and on the Glendale City Council. Won 52.7% in June.",
+     "stands": [
+      "In the Assembly, known for transportation and climate bills, including the law allowing speed cameras in some cities and a law letting cities lower speed limits.",
+      "In Congress, a member of the Democratic minority; her office highlights wildfire recovery and opposition to Trump administration policies."
+     ],
+     "criticisms": [
+      "No substantive published criticism found in this race; her opponent has run a low-budget campaign. Her speed-camera law drew objections from some privacy and civil-liberties advocates when it passed in 2023."
+     ],
+     "endorsements": "",
+     "sources": [
+      {
+       "label": "Wikipedia – Laura Friedman",
+       "url": "https://en.wikipedia.org/wiki/Laura_Friedman"
+      },
+      {
+       "label": "KnowYourReps – CA-30 race",
+       "url": "https://knowyourreps.io/races/2026/california/district-30"
+      }
+     ]
+    },
+    {
+     "name": "Scott Alan Meyers",
+     "ballotName": "SCOTT ALAN MEYERS",
+     "ballotOccupation": "Small Business Owner",
+     "party": "Republican",
+     "incumbent": false,
+     "tier": "minor",
+     "background": "Small business owner. Won 16.6% in June. Raised about $58,000 as of June 30, 2026 versus Friedman's ~$828,000.",
+     "stands": [
+      "Little published platform information; runs as a Republican alternative focused on cost of living."
+     ],
+     "criticisms": [
+      "Very limited fundraising and public campaign activity in a district that voted heavily Democratic in recent elections."
+     ],
+     "endorsements": "",
+     "sources": [
+      {
+       "label": "KnowYourReps – CA-30 race",
+       "url": "https://knowyourreps.io/races/2026/california/district-30"
+      }
+     ]
+    }
+   ],
+   "order": 8
+  },
+  {
+   "id": "measure-te",
+   "page": 2,
+   "column": 1,
+   "section": "City/Local",
+   "type": "measure",
+   "letter": "TE",
+   "title": "Property transfer tax exemption for Palisades Fire victims",
+   "summary": "Gives a one-time exemption (or refund) from the City's Measure ULA \"mansion tax\" for residential properties damaged or destroyed in the January 2025 Palisades Fire, if the owner on the day of the fire sells between Jan. 7, 2025 and Jan. 6, 2030.",
+   "currentLaw": "Measure ULA (2022) adds a 4% tax on LA property sales over ~$5.4M and 5.5% over ~$10.9M (inflation-adjusted). Revenue funds affordable housing and tenant assistance. Many burned Palisades lots and homes sell above that threshold.",
+   "yesMeans": "Fire-damaged residential properties sold within five years by their pre-fire owners skip the ULA tax; taxes already paid get refunded.",
+   "noMeans": "Those sales keep paying ULA like any other sale over the threshold.",
+   "pros": [
+    "Supporters argue ULA was never meant to penalize people who lost their homes in a disaster and are forced to sell.",
+    "Narrow: only pre-fire owners, only verified damaged/destroyed residential properties, only for five years — not a loophole for investors.",
+    "Broad bipartisan coalition including the mayor, council president, state legislators and building trades."
+   ],
+   "cons": [
+    "The City estimates $35M–$66M less for ULA's affordable housing and homelessness-prevention programs through 2030.",
+    "Only sales above ~$5.4M qualify, so the benefit goes to owners of high-value properties, while the lost revenue would have funded programs for low-income renters.",
+    "Sets a precedent for future exemptions to a voter-approved tax."
+   ],
+   "fiscal": "No effect on the General Fund. Reduces House LA Fund (ULA) revenue by an estimated $35M–$66M through Jan. 2030.",
+   "ballotSupporters": "Councilmember Traci Park; Mayor Bass; Council President Harris-Dawson; Western States Carpenters; Palisades Community Council",
+   "ballotOpponents": "None submitted",
+   "otherSupport": "",
+   "otherOppose": "",
+   "voteNeeded": "Majority (50% + 1)",
+   "note": "",
+   "options": [
+    "YES on Measure TE",
+    "NO on Measure TE"
+   ],
+   "sources": [
+    {
+     "label": "LA City Clerk – Official Voter Information Pamphlet",
+     "url": "https://cityclerk.lacity.org/election/ENG201_NOV-2026_Voter_Info_Pamphlet.pdf"
+    }
+   ],
+   "order": 9
+  },
+  {
+   "id": "measure-la",
+   "page": 2,
+   "column": 2,
+   "section": "City/Local",
+   "type": "measure",
+   "letter": "LA",
+   "title": "City infrastructure, budget, finance and contracting (charter amendment)",
+   "summary": "A package of City Charter changes from the Charter Reform Commission: requires a long-term capital infrastructure plan; switches to a two-year budget cycle; gives the Director of Public Works more authority and lets the Council restructure or eliminate the five-member Board of Public Works by ordinance; lets the City mortgage its property and run commercial businesses; exempts certain critical infrastructure projects from competitive bidding rules; and allows minor paperwork errors on bidders' ethics forms to be fixed.",
+   "currentLaw": "One-year budgets; no required infrastructure plan; Public Works is run by a full-time appointed Board; the City may not mortgage property or run purely commercial businesses.",
+   "yesMeans": "The charter changes above take effect.",
+   "noMeans": "Current budget, Public Works and contracting rules stay in place.",
+   "pros": [
+    "Supporters (Controller Mejia, Councilmembers Yaroslavsky and Blumenfield) say LA can't fix billions in deferred street, sidewalk and streetlight repairs without a long-term plan and clear responsibility.",
+    "Two-year budgets force leaders to consider future costs.",
+    "One accountable Public Works director, still overseen by the Mayor, Council and elected Controller.",
+    "Removes outdated restrictions that make it harder to use city assets efficiently."
+   ],
+   "cons": [
+    "Councilmember Monica Rodriguez argues it lets the Council eliminate the Board of Public Works — which reviews contracts in public meetings — and concentrate power in one person after years of City Hall corruption scandals.",
+    "Exempting some projects from competitive bidding and allowing the City to mortgage property could add financial and corruption risk.",
+    "Opponents note a capital plan could be adopted without changing the Charter.",
+    "Bundles many unrelated changes into one yes/no vote."
+   ],
+   "fiscal": "$4M–$6M one-time cost to upgrade budget systems and train staff. Effects of the contracting, mortgage and business changes can't be estimated.",
+   "ballotSupporters": "City Controller Mejia; Councilmembers Yaroslavsky & Blumenfield; former City Controller Galperin; Investing in Place",
+   "ballotOpponents": "Councilwoman Monica Rodriguez (District 7)",
+   "otherSupport": "LA Forward, Streets For All",
+   "otherOppose": "",
+   "voteNeeded": "Majority (50% + 1)",
+   "note": "",
+   "options": [
+    "YES on Measure LA",
+    "NO on Measure LA"
+   ],
+   "sources": [
+    {
+     "label": "LA City Clerk – Official Voter Information Pamphlet",
+     "url": "https://cityclerk.lacity.org/election/ENG201_NOV-2026_Voter_Info_Pamphlet.pdf"
+    },
+    {
+     "label": "LAist – Charter Amendment LA guide",
+     "url": "https://laist.com/news/politics/voter-guides/2026-election-california-general-los-angeles-charter-amendment-la"
+    }
+   ],
+   "order": 10
+  },
+  {
+   "id": "measure-pl",
+   "page": 2,
+   "column": 2,
+   "section": "City/Local",
+   "type": "measure",
+   "letter": "PL",
+   "title": "City Planning Department (charter amendment)",
+   "summary": "Replaces the seven Area Planning Commissions with one citywide Neighborhood Appeals Commission (at least 7 members) that hears planning appeals fresh; sets new procedures and deadlines for the City Council to take over planning decisions; puts Planning Department staff in charge of certain quasi-judicial land-use decisions; treats General Plan amendments as approved if the Council doesn't act within 75 days; and lets the Council change the Charter's density cap (floor area of 13× the lot) by ordinance.",
+   "currentLaw": "Seven regional Area Planning Commissions hear many appeals; if the Council doesn't act on a General Plan amendment in 75 days it's automatically disapproved; the floor-area cap is fixed in the Charter.",
+   "yesMeans": "The planning changes above take effect.",
+   "noMeans": "The current planning structure stays.",
+   "pros": [
+    "Supporters (Charter Reform Commission chair Raymond Meza; Engineers & Architects Association) say clearer rules and fewer politically discretionary decisions reduce opportunities for corruption — several recent City Hall scandals involved land-use favors.",
+    "A single, consistent appeals body and professional staff decisions should speed routine approvals and housing.",
+    "Saves an estimated $360K a year in commission costs."
+   ],
+   "cons": [
+    "No official argument against was filed. A possible concern: the seven regional Area Planning Commissions give each part of the city its own appeals body; one citywide commission may be less locally focused.",
+    "Deeming General Plan amendments approved when the Council doesn't act flips the default in favor of change.",
+    "Letting the Council raise the density cap by ordinance removes a voter-level check on very tall/dense buildings."
+   ],
+   "fiscal": "Not expected to affect revenue. Commission costs drop by about $360,000/year (from $1.1M to $740K).",
+   "ballotSupporters": "Raymond Meza, Chair, Charter Reform Commission; Roy Samaan, President, Engineers & Architects Association",
+   "ballotOpponents": "None submitted",
+   "otherSupport": "",
+   "otherOppose": "",
+   "voteNeeded": "Majority (50% + 1)",
+   "note": "",
+   "options": [
+    "YES on Measure PL",
+    "NO on Measure PL"
+   ],
+   "sources": [
+    {
+     "label": "LA City Clerk – Official Voter Information Pamphlet",
+     "url": "https://cityclerk.lacity.org/election/ENG201_NOV-2026_Voter_Info_Pamphlet.pdf"
+    }
+   ],
+   "order": 11
+  },
+  {
+   "id": "measure-ee",
+   "page": 2,
+   "column": 3,
+   "section": "City/Local",
+   "type": "measure",
+   "letter": "EE",
+   "title": "City ethics, elections and governance (charter amendment)",
+   "summary": "Strengthens the independence of the LAPD Inspector General and LAFD Independent Assessor to open investigations/audits without their commission's approval; bars Ethics Commissioners and the Ethics director from running for city or LAUSD office for five years after leaving; raises campaign-finance penalties to the greater of $15,000 or 3× the improper amount; reduces the required City Council meetings from three per week to at least one; raises referendum petition signatures from 10% to 15% of the last mayoral vote; and lets Neighborhood Council \"stakeholder\" be defined by ordinance.",
+   "currentLaw": "Council must meet three days a week; referendums need signatures equal to 10% of the last mayoral vote; police/fire watchdogs need commission sign-off for some investigations.",
+   "yesMeans": "The ethics, oversight, meeting and referendum changes above take effect.",
+   "noMeans": "Current rules stay in place.",
+   "pros": [
+    "Supporters (Councilmembers McOsker, Yaroslavsky, Harris-Dawson, Hernandez) say it gives real independence to police and fire watchdogs and tougher penalties for campaign-finance violations.",
+    "Five-year cooling-off period keeps Ethics Commissioners from using the post as a springboard.",
+    "Three-meetings-a-week is unusual among big cities; one predictable weekly meeting would free councilmembers to work in their districts.",
+    "Possible savings on translation and captioning costs."
+   ],
+   "cons": [
+    "Councilwoman Monica Rodriguez argues the ethics reforms are a wrapper for cutting public Council meetings by two-thirds — fewer chances for residents to comment and watch, after years of scandals.",
+    "Fewer meetings likely means even fewer Council sessions held in the San Fernando Valley.",
+    "Raising referendum signature requirements to 15% makes it harder for residents to challenge Council decisions at the ballot.",
+    "Bundles popular and unpopular changes into one vote."
+   ],
+   "fiscal": "Possible General Fund savings from fewer meetings; added costs for police/fire investigators can't be determined.",
+   "ballotSupporters": "Councilmembers Tim McOsker, Katy Yaroslavsky, Marqueece Harris-Dawson",
+   "ballotOpponents": "Councilwoman Monica Rodriguez (District 7)",
+   "otherSupport": "",
+   "otherOppose": "",
+   "voteNeeded": "Majority (50% + 1)",
+   "note": "",
+   "options": [
+    "YES on Measure EE",
+    "NO on Measure EE"
+   ],
+   "sources": [
+    {
+     "label": "LA City Clerk – Official Voter Information Pamphlet",
+     "url": "https://cityclerk.lacity.org/election/ENG201_NOV-2026_Voter_Info_Pamphlet.pdf"
+    }
+   ],
+   "order": 12
+  },
+  {
+   "id": "measure-prk",
+   "page": 3,
+   "column": 1,
+   "section": "City/Local",
+   "type": "measure",
+   "letter": "PRK",
+   "title": "Recreation and Parks budget (charter amendment)",
+   "summary": "Doubles the guaranteed minimum General Fund budget for the Department of Recreation and Parks — from 0.0325% to 0.065% of the assessed value of city property — phased in over 10 years. No new tax: the money comes out of the existing General Fund. During a declared fiscal emergency the Council can cut the increase by up to 30%, but never below today's floor.",
+   "currentLaw": "The Charter guarantees Rec & Parks 0.0325% of assessed property value (a formula unchanged since 1937). The department runs 500+ parks, 123 rec/senior centers and 52 pools.",
+   "yesMeans": "Parks get a guaranteed, growing share of the General Fund, reaching roughly double today's minimum by 2036–37.",
+   "noMeans": "The current minimum stays; parks funding continues to be set in the annual budget.",
+   "pros": [
+    "Supporters say LA ranks 93rd of 100 big cities in Trust for Public Land's 2026 ParkScore and funds parks two-thirds less than similar cities; facilities need ~$3B in repairs.",
+    "Keeps pools, rec centers and senior centers open; restores park staff and rangers; builds parks in underserved areas (1/3 of residents lack a park within a 10-minute walk).",
+    "No tax increase; requires annual spending plans reviewed in public.",
+    "Health and tourism benefits (supporters cite $11 in health savings per $1 of programming)."
+   ],
+   "cons": [
+    "No official opposing argument was filed, but the City Administrative Officer warns the money must be shifted from other services — including public safety, public works and homeless services — rising to ~$497M/year more by 2036–37.",
+    "Locking a spending formula into the Charter reduces flexibility for future mayors and councils during a period of ~$1B deficits.",
+    "Ballot-box budgeting: other departments may seek similar set-asides."
+   ],
+   "fiscal": "No new revenue. Increases Rec & Parks' guaranteed funding from ~$303M to ~$995M by 2036–37 (about $32M more in year one, $497M more in year ten), reducing what's available for other city services.",
+   "ballotSupporters": "LA City Councilmembers Monica Rodriguez, Imelda Padilla & Ysabel Jurado; LA City Controller Kenneth Mejia; Father Greg Boyle",
+   "ballotOpponents": "None submitted",
+   "otherSupport": "LA Waterkeeper, LA Neighborhood Land Trust, LA Parks Foundation, Boys & Girls Club of SFV",
+   "otherOppose": "",
+   "voteNeeded": "Majority (50% + 1)",
+   "note": "",
+   "options": [
+    "YES on Measure PRK",
+    "NO on Measure PRK"
+   ],
+   "sources": [
+    {
+     "label": "LA City Clerk – Official Voter Information Pamphlet",
+     "url": "https://cityclerk.lacity.org/election/ENG201_NOV-2026_Voter_Info_Pamphlet.pdf"
+    },
+    {
+     "label": "LAist – Charter Amendment PRK guide",
+     "url": "https://laist.com/news/politics/voter-guides/2026-election-california-general-la-charter-amendment-prk"
+    }
+   ],
+   "order": 13
+  },
+  {
+   "id": "measure-prt",
+   "page": 3,
+   "column": 1,
+   "section": "City/Local",
+   "type": "measure",
+   "letter": "PRT",
+   "title": "City Airports, Harbor, and Water & Power departments (charter amendment)",
+   "summary": "Lets the City approve leases up to 66 years (from 50) for the Airports department (LAWA) and DWP; requires three Airport Commissioners from the LAX area and two from the Van Nuys Airport area (up from one each); writes into the Charter the Port's practice of spending 10% of operating income (~$28.6M/yr) on waterfront public-access projects; and requires applicants for certain Port leases and coastal permits to disclose effects on jobs.",
+   "currentLaw": "50-year max leases for LAWA/DWP (66 for the Port); one LAX-area and one Van Nuys-area airport commissioner; the Port's waterfront investment is a policy, not a Charter requirement.",
+   "yesMeans": "The changes above become part of the Charter.",
+   "noMeans": "Current lease limits, commission makeup and Port practices stay as they are.",
+   "pros": [
+    "Supporters (Councilmembers McOsker, Padilla, Park) say neighborhoods affected by airport noise and traffic deserve more seats on the Airport Commission.",
+    "Locks in the Port's waterfront investment in San Pedro and Wilmington.",
+    "Job-impact disclosure keeps automation and workforce effects in public view.",
+    "Longer leases can attract long-term private investment in infrastructure."
+   ],
+   "cons": [
+    "No official opposing argument was filed. Residency quotas narrow the pool of qualified commissioners the mayor can appoint.",
+    "Longer 66-year leases tie up public land and limit future flexibility.",
+    "Writing the Port's 10% set-aside into the Charter limits how the Harbor Department can use operating income in lean years."
+   ],
+   "fiscal": "Mostly cost-neutral. Codifies an existing ~$28.6M/year Port allocation; applicants pay for their own job-impact studies.",
+   "ballotSupporters": "Tim McOsker, LA City Councilmember; Imelda Padilla, LA City Councilwoman; Traci Park, LA City Councilwoman",
+   "ballotOpponents": "None submitted",
+   "otherSupport": "",
+   "otherOppose": "",
+   "voteNeeded": "Majority (50% + 1)",
+   "note": "",
+   "options": [
+    "YES on Measure PRT",
+    "NO on Measure PRT"
+   ],
+   "sources": [
+    {
+     "label": "LA City Clerk – Official Voter Information Pamphlet",
+     "url": "https://cityclerk.lacity.org/election/ENG201_NOV-2026_Voter_Info_Pamphlet.pdf"
+    }
+   ],
+   "order": 14
+  },
+  {
+   "id": "measure-fd",
+   "page": 3,
+   "column": 2,
+   "section": "City/Local",
+   "type": "measure",
+   "letter": "FD",
+   "title": "Half-cent sales tax for the LA Fire Department (citizen initiative)",
+   "summary": "Adds a 0.5% sales tax in the City of LA (raising the rate from 10.25% to 10.75%) dedicated to the Fire Department: hiring firefighters, paramedics and civilian staff; trucks, ambulances, helicopters and radios; brush clearance and wildfire prep; and building/upgrading fire stations. Raises ~$345M a year until voters end it, with annual audits and a 5-member citizens' oversight committee. The tax can only be collected in years the City keeps LAFD's share of the General Fund at least at its 10-year average.",
+   "currentLaw": "LAFD is funded almost entirely from the General Fund through the annual budget. City sales tax is 10.25% as of Oct. 1, 2026.",
+   "yesMeans": "LA's sales tax rises by half a cent, with the money locked into a fund that can only be spent on LAFD.",
+   "noMeans": "No new tax; LAFD funding continues to come from the regular city budget.",
+   "pros": [
+    "Firefighters say paramedic response often takes nearly twice the 4-minute national standard; FD would add at least 1,000 firefighters and paramedics.",
+    "LA's population has grown 50%+ since the 1960s while firefighter staffing hasn't — and there are fewer stations.",
+    "Money is legally locked to LAFD with audits, public reporting and citizen oversight; the maintenance-of-effort rule stops City Hall from swapping out existing funding.",
+    "Wildfire prevention after the 2025 fires: more brush clearance and modern water-dropping aircraft.",
+    "Even at 10.75%, supporters say LA's rate would be lower than Long Beach, Santa Monica, Pasadena and Burbank."
+   ],
+   "cons": [
+    "Howard Jarvis Taxpayers Assn. says it would be the third sales-tax increase in two years (after county Measure A in 2024 and Measure ER in June) — about $86 per resident per year.",
+    "Sales taxes take a bigger share of income from lower-income households.",
+    "Opponents argue the City has an $8B+ General Fund and should prioritize fire protection over things like the $2.7B Convention Center expansion or homelessness spending.",
+    "As a citizen initiative it needs only a simple majority instead of two-thirds — the \"loophole\" Prop 43 on this ballot would close for future measures."
+   ],
+   "fiscal": "About $345 million per year for LAFD, collected starting ~110 days after approval, until ended by voters.",
+   "ballotSupporters": "LA City Firefighters; LAFD Chief Officers Association; CA Professional Firefighters; International Assn. of Fire Fighters",
+   "ballotOpponents": "Howard Jarvis Taxpayers Association",
+   "otherSupport": "LAFD Fire Chief Jaime Moore (signed the ballot argument)",
+   "otherOppose": "",
+   "voteNeeded": "Majority (50% + 1) — qualified as a citizen initiative",
+   "note": "",
+   "options": [
+    "YES on Measure FD",
+    "NO on Measure FD"
+   ],
+   "sources": [
+    {
+     "label": "LA City Clerk – Official Voter Information Pamphlet",
+     "url": "https://cityclerk.lacity.org/election/ENG201_NOV-2026_Voter_Info_Pamphlet.pdf"
+    }
+   ],
+   "order": 15
+  },
+  {
+   "id": "measure-sc",
+   "page": 3,
+   "column": 2,
+   "section": "City/Local",
+   "type": "measure",
+   "letter": "SC",
+   "title": "Campaign finance rules for LAUSD Board of Education elections (charter amendment)",
+   "summary": "Removes a separate, nearly duplicate section of the Charter on campaign-finance rules for LAUSD school board candidates and instead applies the same rules used for mayoral candidates (contribution limits, disclosure, Ethics Commission oversight), with some exceptions — school board candidates would not get city public matching funds and certain fundraising provisions wouldn't apply. Lets the Council make further changes by ordinance.",
+   "currentLaw": "LAUSD board candidates follow campaign rules in their own section of the City Charter that closely mirror the mayoral rules.",
+   "yesMeans": "Board of Education campaign rules are folded into the general city campaign-finance section; Council can adjust them by ordinance.",
+   "noMeans": "The separate Charter section stays as is.",
+   "pros": [
+    "Supporters (League of Women Voters of Greater LA, California Common Cause, LAUSD board member Nick Melvoin) call it a simple cleanup that removes redundant Charter language.",
+    "Gives one consistent framework for all city-administered candidates.",
+    "No cost to the City."
+   ],
+   "cons": [
+    "No official opposing argument was filed. Allowing future changes \"by ordinance\" means the Council, not voters, could later alter school board campaign rules.",
+    "School board races already attract heavy outside spending, so any later loosening by ordinance could matter."
+   ],
+   "fiscal": "No financial impact on the City expected.",
+   "ballotSupporters": "Councilmember Adrin Nazarian; LAUSD Board Member Nick Melvoin; League of Women Voters of Greater LA; CA Common Cause",
+   "ballotOpponents": "None submitted",
+   "otherSupport": "",
+   "otherOppose": "",
+   "voteNeeded": "Majority (50% + 1)",
+   "note": "",
+   "options": [
+    "YES on Measure SC",
+    "NO on Measure SC"
+   ],
+   "sources": [
+    {
+     "label": "LA City Clerk – Official Voter Information Pamphlet",
+     "url": "https://cityclerk.lacity.org/election/ENG201_NOV-2026_Voter_Info_Pamphlet.pdf"
+    }
+   ],
+   "order": 16
+  },
+  {
+   "id": "sheriff",
+   "page": 3,
+   "column": 2,
+   "section": "County",
+   "type": "candidate",
+   "office": "Sheriff — Los Angeles County",
+   "voteFor": 1,
+   "writeIn": true,
+   "note": "A rematch of 2022, when Luna beat then-Sheriff Villanueva with ~61%. In June 2026 Luna got 44.2% and Villanueva 21.7%.",
+   "about": "The Sheriff runs the nation's largest sheriff's department: patrol for unincorporated areas and contract cities, the county jail system, and court security. Four-year term, nonpartisan.",
+   "candidates": [
+    {
+     "name": "Robert Luna",
+     "ballotName": "ROBERT G. LUNA",
+     "ballotOccupation": "Sheriff of Los Angeles County",
+     "party": null,
+     "incumbent": true,
+     "tier": "major",
+     "background": "Elected sheriff in 2022. Former Long Beach police chief with 36 years at the Long Beach PD.",
+     "stands": [
+      "Calls deputy gangs \"absolutely unacceptable, with an exclamation point\"; implemented a policy banning membership in deputy subgroups.",
+      "Rebuilding staffing amid ~3,000 sworn vacancies; improving jail conditions and reducing in-custody deaths.",
+      "Cooperative relationship with the Board of Supervisors and the Civilian Oversight Commission."
+     ],
+     "criticisms": [
+      "Villanueva says Luna has driven \"over a quarter of the workforce\" away, citing an exodus of experienced personnel, deputy suicides and in-custody deaths.",
+      "Villanueva argues \"lawlessness has become the new normal\" — street takeovers, looting and organized burglary crews.",
+      "Was forced into a runoff after failing to win a majority in June."
+     ],
+     "endorsements": "",
+     "sources": [
+      {
+       "label": "NBC LA – Luna vs. Villanueva rematch",
+       "url": "https://www.nbclosangeles.com/news/local/luna-villanueva-la-county-sheriffs-race/3902589/"
+      },
+      {
+       "label": "LAist – Sheriff race guide",
+       "url": "https://laist.com/news/politics/voter-guides/2026-election-california-primary-los-angeles-county-sheriff"
+      },
+      {
+       "label": "Santa Monica Daily Press – sheriff debate",
+       "url": "https://www.smdp.com/villanueva-under-fire-at-sheriffs-debate/"
+      }
+     ]
+    },
+    {
+     "name": "Alex Villanueva",
+     "ballotName": "ALEX VILLANUEVA",
+     "ballotOccupation": "Retired Peace Officer",
+     "party": null,
+     "incumbent": false,
+     "tier": "major",
+     "background": "LA County Sheriff 2018–2022 (the first challenger in over a century to unseat a sitting LA sheriff); lost to Luna in 2022. Decades as a sheriff's deputy before that.",
+     "stands": [
+      "Restore staffing and morale; reverse what he calls failed leadership.",
+      "Crack down on street takeovers, looting and organized burglary.",
+      "\"People are tired of waiting for someone to take their safety seriously.\""
+     ],
+     "criticisms": [
+      "Other candidates blamed his leadership for the spread of deputy gangs; he has called the deputy-gang narrative \"a calculated political hoax designed to defame the department.\"",
+      "As sheriff he repeatedly clashed with the Board of Supervisors and the Civilian Oversight Commission, including over budgets and subpoenas.",
+      "Voters rejected his re-election in 2022 by a wide margin."
+     ],
+     "endorsements": "",
+     "sources": [
+      {
+       "label": "NBC LA – Luna vs. Villanueva rematch",
+       "url": "https://www.nbclosangeles.com/news/local/luna-villanueva-la-county-sheriffs-race/3902589/"
+      },
+      {
+       "label": "LAist – Sheriff race guide",
+       "url": "https://laist.com/news/politics/voter-guides/2026-election-california-primary-los-angeles-county-sheriff"
+      },
+      {
+       "label": "Santa Monica Daily Press – sheriff debate",
+       "url": "https://www.smdp.com/villanueva-under-fire-at-sheriffs-debate/"
+      },
+      {
+       "label": "FOX 11 – Villanueva announces run",
+       "url": "https://www.foxla.com/news/alex-villanueva-2026-sheriff-run"
+      }
+     ]
+    }
+   ],
+   "order": 17
+  },
+  {
+   "id": "judge-64",
+   "page": 3,
+   "column": 3,
+   "section": "County",
+   "type": "candidate",
+   "office": "Judge of the Superior Court — Office No. 64",
+   "voteFor": 1,
+   "writeIn": true,
+   "note": "",
+   "about": "Superior Court judges hear criminal, civil, family, probate and juvenile cases in LA County. Six-year term, nonpartisan. These four seats go to a runoff because no one won a majority in June. Judicial candidates are barred by ethics rules from promising how they'd rule, so the main signals are experience and the LA County Bar Association's rating (Exceptionally Well Qualified > Well Qualified > Qualified > Not Qualified). A retired judge quoted by LAist said judicial demeanor — treating everyone with respect and impartiality — matters most.",
+   "candidates": [
+    {
+     "name": "Rhonda A. Haymon",
+     "ballotName": "RHONDA A. HAYMON",
+     "ballotOccupation": "Deputy Public Defender, County of Los Angeles",
+     "party": null,
+     "incumbent": false,
+     "tier": "minor",
+     "background": "Deputy Public Defender, County of Los Angeles. LA County Bar Association rating: Qualified. June result: 42.1%.",
+     "stands": [],
+     "criticisms": [],
+     "endorsements": "",
+     "sources": [
+      {
+       "label": "LAist – Superior Court judges guide",
+       "url": "https://laist.com/news/politics/voter-guides/2026-election-california-general-la-county-judges"
+      },
+      {
+       "label": "Campaign site – rhondahaymon4judge.com",
+       "url": "https://rhondahaymon4judge.com"
+      }
+     ]
+    },
+    {
+     "name": "Maria Ghobadi",
+     "ballotName": "MARIA GHOBADI",
+     "ballotOccupation": "Deputy District Attorney, County of Los Angeles",
+     "party": null,
+     "incumbent": false,
+     "tier": "minor",
+     "background": "Deputy District Attorney, County of Los Angeles. LA County Bar Association rating: Well Qualified. June result: 44.1%.",
+     "stands": [],
+     "criticisms": [],
+     "endorsements": "",
+     "sources": [
+      {
+       "label": "LAist – Superior Court judges guide",
+       "url": "https://laist.com/news/politics/voter-guides/2026-election-california-general-la-county-judges"
+      },
+      {
+       "label": "Campaign site – mariaghobadi4judge.com",
+       "url": "https://mariaghobadi4judge.com"
+      }
+     ]
+    }
+   ],
+   "order": 18
+  },
+  {
+   "id": "judge-65",
+   "page": 3,
+   "column": 3,
+   "section": "County",
+   "type": "candidate",
+   "office": "Judge of the Superior Court — Office No. 65",
+   "voteFor": 1,
+   "writeIn": true,
+   "note": "",
+   "about": "Superior Court judges hear criminal, civil, family, probate and juvenile cases in LA County. Six-year term, nonpartisan. These four seats go to a runoff because no one won a majority in June. Judicial candidates are barred by ethics rules from promising how they'd rule, so the main signals are experience and the LA County Bar Association's rating (Exceptionally Well Qualified > Well Qualified > Qualified > Not Qualified). A retired judge quoted by LAist said judicial demeanor — treating everyone with respect and impartiality — matters most.",
+   "candidates": [
+    {
+     "name": "Justin Allen Clayton",
+     "ballotName": "JUSTIN ALLEN CLAYTON",
+     "ballotOccupation": "Deputy Public Defender, County of Los Angeles",
+     "party": null,
+     "incumbent": false,
+     "tier": "minor",
+     "background": "Deputy Public Defender, County of Los Angeles. LA County Bar Association rating: Qualified. June result: 36.7%.",
+     "stands": [],
+     "criticisms": [],
+     "endorsements": "",
+     "sources": [
+      {
+       "label": "LAist – Superior Court judges guide",
+       "url": "https://laist.com/news/politics/voter-guides/2026-election-california-general-la-county-judges"
+      },
+      {
+       "label": "Campaign site – claytonforjudge2026.com",
+       "url": "https://claytonforjudge2026.com"
+      }
+     ]
+    },
+    {
+     "name": "Anna Slotky Reitano",
+     "ballotName": "ANNA SLOTKY REITANO",
+     "ballotOccupation": "Deputy County Counsel, County of Los Angeles",
+     "party": null,
+     "incumbent": false,
+     "tier": "minor",
+     "background": "Deputy County Counsel, County of Los Angeles. LA County Bar Association rating: Qualified. Advises county departments and represents the county in civil litigation. June result: 29.9%.",
+     "stands": [],
+     "criticisms": [],
+     "endorsements": "",
+     "sources": [
+      {
+       "label": "LAist – Superior Court judges guide",
+       "url": "https://laist.com/news/politics/voter-guides/2026-election-california-general-la-county-judges"
+      },
+      {
+       "label": "Campaign site – reitanoforjudge.com",
+       "url": "https://reitanoforjudge.com"
+      }
+     ]
+    }
+   ],
+   "order": 19
+  },
+  {
+   "id": "judge-87",
+   "page": 3,
+   "column": 3,
+   "section": "County",
+   "type": "candidate",
+   "office": "Judge of the Superior Court — Office No. 87",
+   "voteFor": 1,
+   "writeIn": true,
+   "note": "",
+   "about": "Superior Court judges hear criminal, civil, family, probate and juvenile cases in LA County. Six-year term, nonpartisan. These four seats go to a runoff because no one won a majority in June. Judicial candidates are barred by ethics rules from promising how they'd rule, so the main signals are experience and the LA County Bar Association's rating (Exceptionally Well Qualified > Well Qualified > Qualified > Not Qualified). A retired judge quoted by LAist said judicial demeanor — treating everyone with respect and impartiality — matters most.",
+   "candidates": [
+    {
+     "name": "David DeJute",
+     "ballotName": "DAVID DEJUTE",
+     "ballotOccupation": "Law Professor/Attorney",
+     "party": null,
+     "incumbent": false,
+     "tier": "minor",
+     "background": "Law Professor/Attorney. LA County Bar Association rating: Qualified. June result: 31.3%.",
+     "stands": [],
+     "criticisms": [],
+     "endorsements": "",
+     "sources": [
+      {
+       "label": "LAist – Superior Court judges guide",
+       "url": "https://laist.com/news/politics/voter-guides/2026-election-california-general-la-county-judges"
+      },
+      {
+       "label": "Campaign site – dejuteforjudge.com",
+       "url": "https://dejuteforjudge.com"
+      }
+     ]
+    },
+    {
+     "name": "Anthony (A.J.) Bayne",
+     "ballotName": "ANTHONY (A.J.) BAYNE",
+     "ballotOccupation": "Deputy Public Defender, County of Los Angeles",
+     "party": null,
+     "incumbent": false,
+     "tier": "minor",
+     "background": "Deputy Public Defender, County of Los Angeles. LA County Bar Association rating: Well Qualified. June result: 42.0%.",
+     "stands": [],
+     "criticisms": [],
+     "endorsements": "",
+     "sources": [
+      {
+       "label": "LAist – Superior Court judges guide",
+       "url": "https://laist.com/news/politics/voter-guides/2026-election-california-general-la-county-judges"
+      },
+      {
+       "label": "Campaign site – electbayneforjudge.com",
+       "url": "https://electbayneforjudge.com"
+      }
+     ]
+    }
+   ],
+   "order": 20
+  },
+  {
+   "id": "judge-131",
+   "page": 3,
+   "column": 3,
+   "section": "County",
+   "type": "candidate",
+   "office": "Judge of the Superior Court — Office No. 131",
+   "voteFor": 1,
+   "writeIn": true,
+   "note": "",
+   "about": "Superior Court judges hear criminal, civil, family, probate and juvenile cases in LA County. Six-year term, nonpartisan. These four seats go to a runoff because no one won a majority in June. Judicial candidates are barred by ethics rules from promising how they'd rule, so the main signals are experience and the LA County Bar Association's rating (Exceptionally Well Qualified > Well Qualified > Qualified > Not Qualified). A retired judge quoted by LAist said judicial demeanor — treating everyone with respect and impartiality — matters most.",
+   "candidates": [
+    {
+     "name": "David Ross",
+     "ballotName": "DAVID ROSS",
+     "ballotOccupation": "Deputy Alternate Public Defender, County of Los Angeles",
+     "party": null,
+     "incumbent": false,
+     "tier": "minor",
+     "background": "Deputy Alternate Public Defender, County of Los Angeles. LA County Bar Association rating: Qualified. June result: 33.2%.",
+     "stands": [],
+     "criticisms": [],
+     "endorsements": "",
+     "sources": [
+      {
+       "label": "LAist – Superior Court judges guide",
+       "url": "https://laist.com/news/politics/voter-guides/2026-election-california-general-la-county-judges"
+      },
+      {
+       "label": "Campaign site – davidrossforjudge2026.com",
+       "url": "https://davidrossforjudge2026.com"
+      }
+     ]
+    },
+    {
+     "name": "Donna Tryfman",
+     "ballotName": "DONNA TRYFMAN",
+     "ballotOccupation": "Deputy Public Defender, County of Los Angeles",
+     "party": null,
+     "incumbent": false,
+     "tier": "minor",
+     "background": "Deputy Public Defender, County of Los Angeles. LA County Bar Association rating: Qualified. June result: 37.3%.",
+     "stands": [],
+     "criticisms": [],
+     "endorsements": "",
+     "sources": [
+      {
+       "label": "LAist – Superior Court judges guide",
+       "url": "https://laist.com/news/politics/voter-guides/2026-election-california-general-la-county-judges"
+      },
+      {
+       "label": "Campaign site – tryfmanforjudge2026.com",
+       "url": "https://tryfmanforjudge2026.com"
+      }
+     ]
+    }
+   ],
+   "order": 21
+  },
+  {
+   "id": "county-a",
+   "page": 4,
+   "column": 1,
+   "section": "County",
+   "type": "measure",
+   "letter": "A",
+   "title": "Binding arbitration for county public safety employees (county charter amendment)",
+   "summary": "Amends the LA County Charter so that when contract talks with public-safety unions reach an impasse, a three-member arbitration panel (one picked by the County, one by the union, one neutral) makes a final, binding decision on wages, hours and working conditions. Covers ~17,000 employees in 14 bargaining units: firefighters, sheriff's deputies, DA investigators, medical examiners, lifeguards, their supervisors, and non-administrative civilians in Fire, Sheriff and Medical Examiner. Also bars strikes by DA investigators, medical examiners, lifeguards and those civilian workers, and restates the duty to bargain in good faith.",
+   "currentLaw": "If negotiations fail, the Board of Supervisors can impose its \"last, best and final offer\" on the union.",
+   "yesMeans": "Contract impasses with these unions go to binding arbitration; the covered workers can't strike.",
+   "noMeans": "The Board of Supervisors keeps the final say and can impose contract terms after an impasse.",
+   "pros": [
+    "Supporters (firefighter and deputy unions; four of five supervisors) say it \"takes politics out of public safety pay\" and puts neutral experts in charge of resolving disputes.",
+    "Unions say staffing shortages and competition from other agencies are causing burnout; fair, competitive pay helps recruit and retain first responders.",
+    "Supervisor Kathryn Barger called it \"a long time coming.\"",
+    "Adds a no-strike guarantee for several job classes."
+   ],
+   "cons": [
+    "Supervisor Holly Mitchell: \"Arbitrators aren't elected\" and don't weigh countywide trade-offs like homeless services, health care and capital projects.",
+    "Former County CEO Joe Nicchitta warned awards could strain reserves, increase pension liabilities and hurt credit ratings, citing Vallejo and San Luis Obispo.",
+    "Accountability advocates say it reduces transparency and democratic control over ~17% of the county workforce's pay, while the county faces federal health cuts, fire recovery costs and large legal settlements."
+   ],
+   "fiscal": "No official cost estimate. Covered employees are about 17% of the county workforce; the county budget is ~$23B. Future costs depend on arbitration awards.",
+   "ballotSupporters": "LA County Firefighters Local #1014; Association of LA Deputy Sheriffs; LA/OC Building Trades Council",
+   "ballotOpponents": "None submitted",
+   "otherSupport": "",
+   "otherOppose": "",
+   "voteNeeded": "Majority (50% + 1)",
+   "note": "",
+   "options": [
+    "YES on Measure A",
+    "NO on Measure A"
+   ],
+   "sources": [
+    {
+     "label": "LAist – County Measure A guide",
+     "url": "https://laist.com/news/politics/voter-guides/2026-election-california-general-your-la-county-measure-a-binding-arbitration"
+    },
+    {
+     "label": "Firefighter Nation / LA Times – arbitration measure",
+     "url": "https://www.firefighternation.com/?p=183421"
+    },
+    {
+     "label": "League of Women Voters – Measure A Pros & Cons",
+     "url": "https://my.lwv.org/sites/default/files/leagues/wysiwyg/%5Bcurrent-user%3Aog-user-node%3A1%3Atitle%5D/la_county_measure_a.pdf"
+    }
+   ],
+   "order": 22
+  },
+  {
+   "id": "county-e",
+   "page": 4,
+   "column": 1,
+   "section": "County",
+   "type": "measure",
+   "letter": "E",
+   "title": "County Ethics Commission independence and community investment set-aside (county charter amendment)",
+   "summary": "Gives the County Ethics Commission and Office of Ethics Compliance (created by 2024's Measure G) firmer independence: power to investigate county officials, candidates, lobbyists and contractors, issue subpoenas and fine up to $15,000 per violation, with a guaranteed minimum budget (~$14.3M/yr) and rules on appointments, qualifications and terms. Also restores the requirement that 10% of locally generated unrestricted county revenue go to community investment and alternatives to incarceration — the Measure J (2020) rule that was accidentally deleted by Measure G.",
+   "currentLaw": "Measure G created an Ethics Commission, but its powers, budget and independence are not fully locked into the Charter. Measure J's 10% set-aside was unintentionally repealed in 2024.",
+   "yesMeans": "Ethics Commission independence, enforcement powers and funding are written into the Charter; the 10% community investment set-aside returns.",
+   "noMeans": "The Ethics Commission continues under Measure G's framework without these guarantees, and the 10% set-aside stays repealed.",
+   "pros": [
+    "Supporters (League of Women Voters, CA Common Cause, CA Clean Money) say it creates LA County's first truly independent ethics watchdog with real enforcement teeth.",
+    "A guaranteed budget means supervisors can't starve the commission that oversees them.",
+    "Restoring the Measure J set-aside fixes an \"administrative error\" and honors what voters approved in 2020."
+   ],
+   "cons": [
+    "The LA Daily News editorial board called the ethics changes \"plausibly fine\" but opposes reviving Measure J's mandate, which locks in 10% of discretionary revenue regardless of circumstances.",
+    "Budget set-asides reduce the Board's flexibility during deficits (Measure J itself was struck down once in court before being reinstated).",
+    "Bundles two unrelated issues — ethics oversight and spending priorities — into one vote."
+   ],
+   "fiscal": "About $14.3M per year for the Ethics Commission (≈54 staff). The 10% set-aside redirects existing revenue rather than raising new money.",
+   "ballotSupporters": "League of Women Voters of LA County; CA Clean Money; Supervisor Lindsey Horvath; CA Common Cause; AAPI Equity Alliance",
+   "ballotOpponents": "None submitted",
+   "otherSupport": "",
+   "otherOppose": "LA Daily News editorial board",
+   "voteNeeded": "Majority (50% + 1)",
+   "note": "",
+   "options": [
+    "YES on Measure E",
+    "NO on Measure E"
+   ],
+   "sources": [
+    {
+     "label": "LAist – County Measure E guide",
+     "url": "https://laist.com/news/politics/voter-guides/2026-election-california-general-la-county-measure-e-ethics-comission-measure-j"
+    },
+    {
+     "label": "League of Women Voters – Measure E Pros & Cons",
+     "url": "https://my.lwv.org/sites/default/files/leagues/wysiwyg/%5Bcurrent-user%3Aog-user-node%3A1%3Atitle%5D/la_county_measure_e.pdf"
+    }
+   ],
+   "order": 23
+  },
+  {
+   "id": "governor",
+   "page": 4,
+   "column": 2,
+   "section": "State",
+   "type": "candidate",
+   "office": "Governor",
+   "voteFor": 1,
+   "writeIn": false,
+   "note": "Open seat — Gavin Newsom is termed out. Top-two general election.",
+   "about": "The governor runs the executive branch, proposes the state budget (~$320B), signs or vetoes bills, appoints judges and agency heads, and commands the state National Guard. Four-year term.",
+   "candidates": [
+    {
+     "name": "Steve Hilton",
+     "ballotName": "STEVE HILTON",
+     "ballotOccupation": "Small Business Owner",
+     "party": "Republican",
+     "incumbent": false,
+     "tier": "major",
+     "background": "Born in the UK; former senior adviser to British Prime Minister David Cameron; hosted \"The Next Revolution\" on Fox News for six years; co-founded a political-tech startup in Silicon Valley. U.S. citizen since 2021.",
+     "stands": [
+      "Taxes: eliminate state income tax on the first $150,000 of income (his campaign's \"Califordable\" plan) with a flat rate above that; cut the gas tax in half.",
+      "Energy: increase in-state oil and natural-gas production, suspend some environmental rules and roll back climate mandates to lower gas and utility prices.",
+      "Housing: cut regulations for starter homes; cap government fees on new construction at $50,000; loan program for first-time buyers.",
+      "Homelessness: ban street camping and clear encampments.",
+      "Education: freeze in-state public college tuition; education savings accounts (school-choice).",
+      "End Medi-Cal coverage for undocumented immigrants; \"clean up the corruption\" in Sacramento."
+     ],
+     "criticisms": [
+      "Becerra says Hilton's tax cuts would mostly benefit the wealthy, that his \"math doesn't add up,\" and that they would drain money from schools — \"you're going to end up with Trump results.\"",
+      "Becerra ties him closely to President Trump on immigration, AI, energy and voting. (CapRadio found no evidence for Becerra's specific claim that Hilton called ICE policies \"perfect.\")",
+      "Has never held elected office."
+     ],
+     "endorsements": "President Donald Trump, California Republican Party, Nisei Farmers League.",
+     "sources": [
+      {
+       "label": "LAist – Governor guide",
+       "url": "https://laist.com/news/politics/voter-guides/2026-election-california-general-governor"
+      },
+      {
+       "label": "CalMatters – Governor guide",
+       "url": "https://calmatters.org/california-voter-guide-2026/governor/"
+      },
+      {
+       "label": "CNN – debate takeaways",
+       "url": "https://www.cnn.com/2026/09/30/politics/takeaways-cnn-california-governor-debate-becerra-hilton"
+      },
+      {
+       "label": "CapRadio – debate analysis",
+       "url": "https://www.capradio.org/articles/2026/10/01/hilton-becerra-battle-in-rare-gubernatorial-debate-but-was-the-focus-on-california/"
+      },
+      {
+       "label": "Hilton campaign – tax plan",
+       "url": "https://stevehiltonforgovernor.com/policy/a-califordable-tax-plan/"
+      }
+     ]
+    },
+    {
+     "name": "Xavier Becerra",
+     "ballotName": "XAVIER BECERRA",
+     "ballotOccupation": "Voting Rights Attorney",
+     "party": "Democratic",
+     "incumbent": false,
+     "tier": "major",
+     "background": "U.S. Secretary of Health and Human Services under President Biden (2021–2025); California Attorney General (2017–2021); represented Los Angeles in Congress for 24 years.",
+     "stands": [
+      "Declare a housing emergency to finance ~40,000 already-approved affordable homes and, during it, freeze utility rates and home-insurance premiums.",
+      "Expand down-payment assistance; ongoing state funding for rental assistance and homelessness services.",
+      "Health care: strengthen Medi-Cal and work toward universal coverage (he has moved away from promising single-payer in the near term).",
+      "Continue California's legal fight against the Trump administration — as AG he filed 120+ lawsuits against the first Trump administration.",
+      "Supports the clean-energy transition but says he's open to revising climate goals if they become unaffordable."
+     ],
+     "criticisms": [
+      "Hilton blames him and \"15 years of Democratic control\" for high costs, homelessness and failing schools.",
+      "Hilton attacked HHS's handling of unaccompanied migrant children under Becerra, citing whistleblower reports of unsafe sponsor placements, and its COVID mask/vaccine guidance.",
+      "Axios reported that Biden adviser Susan Rice privately disparaged his management of migrant shelters; Hilton raised it in the debate.",
+      "CalMatters and CapRadio reported that he has avoided specific commitments on many issues, including energy costs and AI data centers."
+     ],
+     "endorsements": "California Democratic Party.",
+     "sources": [
+      {
+       "label": "LAist – Governor guide",
+       "url": "https://laist.com/news/politics/voter-guides/2026-election-california-general-governor"
+      },
+      {
+       "label": "CalMatters – Governor guide",
+       "url": "https://calmatters.org/california-voter-guide-2026/governor/"
+      },
+      {
+       "label": "CalMatters – Becerra profile",
+       "url": "https://calmatters.org/politics/2026/08/california-governor-becerra-profile-promises/"
+      },
+      {
+       "label": "CNN – debate takeaways",
+       "url": "https://www.cnn.com/2026/09/30/politics/takeaways-cnn-california-governor-debate-becerra-hilton"
+      },
+      {
+       "label": "CapRadio – debate analysis",
+       "url": "https://www.capradio.org/articles/2026/10/01/hilton-becerra-battle-in-rare-gubernatorial-debate-but-was-the-focus-on-california/"
+      },
+      {
+       "label": "Becerra campaign – priorities",
+       "url": "https://www.xavierbecerra2026.com/priorities/"
+      }
+     ]
+    }
+   ],
+   "order": 24
+  },
+  {
+   "id": "lt-governor",
+   "page": 4,
+   "column": 2,
+   "section": "State",
+   "type": "candidate",
+   "office": "Lieutenant Governor",
+   "voteFor": 1,
+   "writeIn": false,
+   "note": "",
+   "about": "Becomes acting governor when the governor is out of state or unable to serve, casts tie-breaking votes in the state Senate, and sits on the UC Regents, CSU Trustees, State Lands Commission and other boards. Four-year term.",
+   "candidates": [
+    {
+     "name": "Gloria Romero",
+     "ballotName": "GLORIA ROMERO",
+     "ballotOccupation": "Educator/Businesswoman",
+     "party": "Republican",
+     "incumbent": false,
+     "tier": "major",
+     "background": "Former Democratic state legislator (2001–2008), including the first woman to serve as state Senate Majority Leader. Became a Republican in 2024. Hilton has asked her to be \"on the ticket\" with him.",
+     "stands": [
+      "Sees the job as \"California's chief accountability officer\" — using board seats to expose waste and force answers.",
+      "School choice (she authored the state's \"parent trigger\" law); freeze public-college tuition and limit remedial coursework.",
+      "Disagrees with Democrats on COVID-era policies and gender-identity policy in schools."
+     ],
+     "criticisms": [
+      "Switched from Democrat to Republican in 2024; her positions on gender identity and school choice put her at odds with the Democratic legislative majority she'd work alongside.",
+      "Has been out of elected office since 2008."
+     ],
+     "endorsements": "California Republican Party, Reform California.",
+     "sources": [
+      {
+       "label": "CalMatters – Lt. Governor guide",
+       "url": "https://calmatters.org/california-voter-guide-2026/lieutenant-governor/"
+      },
+      {
+       "label": "Wikipedia – Gloria Romero",
+       "url": "https://en.wikipedia.org/wiki/Gloria_Romero_(politician)"
+      }
+     ]
+    },
+    {
+     "name": "Fiona Ma",
+     "ballotName": "FIONA MA",
+     "ballotOccupation": "State Treasurer/CPA",
+     "party": "Democratic",
+     "incumbent": false,
+     "tier": "major",
+     "background": "State Treasurer since 2019; Board of Equalization 2015–2019; four terms in the Assembly; former San Francisco supervisor. CPA.",
+     "stands": [
+      "Highlights managing the state's investments and debt as Treasurer; affordable housing finance and first-time homebuyer programs (including support for Prop 37 on this ballot).",
+      "Running on financial expertise and experience on state boards."
+     ],
+     "criticisms": [
+      "A former employee sued her in 2021 alleging sexual harassment and racial discrimination; the state settled in 2024 for $350,000. Ma denied wrongdoing.",
+      "CalMatters noted recent reporting on transparency issues at an infrastructure finance agency she oversees."
+     ],
+     "endorsements": "California Labor Federation, State Building and Construction Trades Council, AFSCME.",
+     "sources": [
+      {
+       "label": "CalMatters – Lt. Governor guide",
+       "url": "https://calmatters.org/california-voter-guide-2026/lieutenant-governor/"
+      },
+      {
+       "label": "Wikipedia – Fiona Ma",
+       "url": "https://en.wikipedia.org/wiki/Fiona_Ma"
+      }
+     ]
+    }
+   ],
+   "order": 25
+  },
+  {
+   "id": "secretary-of-state",
+   "page": 4,
+   "column": 2,
+   "section": "State",
+   "type": "candidate",
+   "office": "Secretary of State",
+   "voteFor": 1,
+   "writeIn": false,
+   "note": "",
+   "about": "California's chief elections officer (certifies results, oversees counties' election procedures, maintains voter rolls) and also registers businesses. Four-year term.",
+   "candidates": [
+    {
+     "name": "Don Wagner",
+     "ballotName": "DONALD P. (DON) WAGNER",
+     "ballotOccupation": "Orange County Supervisor",
+     "party": "Republican",
+     "incumbent": false,
+     "tier": "major",
+     "background": "Orange County Supervisor; former mayor of Irvine and state Assemblymember.",
+     "stands": [
+      "\"Election integrity\" is his central platform: require voter ID at the polls (needs new law).",
+      "Speed up ballot counting and certification, which he says erodes confidence (\"Geez, is that really a fair election?\").",
+      "Would roll back universal vote-by-mail (requires legislative action)."
+     ],
+     "criticisms": [
+      "As supervisor he pushed to give sensitive voter information to the U.S. Department of Justice regarding alleged irregularities, which critics called a threat to voter privacy.",
+      "Opponents say scaling back mail voting and adding ID requirements would make voting harder for eligible voters."
+     ],
+     "endorsements": "California Republican Party, Reform California, California Republican Assembly.",
+     "sources": [
+      {
+       "label": "CalMatters – Secretary of State guide",
+       "url": "https://calmatters.org/california-voter-guide-2026/secretary-of-state/"
+      },
+      {
+       "label": "CalMatters – partisan divide over counting",
+       "url": "https://calmatters.org/politics/2026/04/california-secretary-state-race/"
+      }
+     ]
+    },
+    {
+     "name": "Shirley Weber",
+     "ballotName": "SHIRLEY N. WEBER",
+     "ballotOccupation": "California Secretary of State",
+     "party": "Democratic",
+     "incumbent": true,
+     "tier": "major",
+     "background": "Appointed in 2021 — the first Black Secretary of State in California — and elected in 2022. Previously an Assemblymember and longtime San Diego State professor.",
+     "stands": [
+      "Accuracy over speed in counting: \"For me, accuracy is far more important.\"",
+      "Oversaw making universal vote-by-mail permanent; expanding registration and accessibility.",
+      "Election cybersecurity and more transparency in campaign filings."
+     ],
+     "criticisms": [
+      "Critics, including Wagner, say California's slow count — winners are sometimes sworn in before certification — undermines public confidence.",
+      "Opposes voter ID requirements, which Wagner and Prop 39 supporters favor."
+     ],
+     "endorsements": "California Democratic Party, California Federation of Teachers, SEIU California.",
+     "sources": [
+      {
+       "label": "CalMatters – Secretary of State guide",
+       "url": "https://calmatters.org/california-voter-guide-2026/secretary-of-state/"
+      },
+      {
+       "label": "CalMatters – partisan divide over counting",
+       "url": "https://calmatters.org/politics/2026/04/california-secretary-state-race/"
+      }
+     ]
+    }
+   ],
+   "order": 26
+  },
+  {
+   "id": "controller",
+   "page": 4,
+   "column": 2,
+   "section": "State",
+   "type": "candidate",
+   "office": "Controller",
+   "voteFor": 1,
+   "writeIn": false,
+   "note": "",
+   "about": "The state's chief fiscal officer: pays the state's bills, audits state spending, and sits on many boards including CalPERS, CalSTRS and the Board of Equalization. Four-year term.",
+   "candidates": [
+    {
+     "name": "Malia Cohen",
+     "ballotName": "MALIA M. COHEN",
+     "ballotOccupation": "State Controller/Mother",
+     "party": "Democratic",
+     "incumbent": true,
+     "tier": "major",
+     "background": "State Controller since 2023; previously on the Board of Equalization and San Francisco Board of Supervisors.",
+     "stands": [
+      "Govern state finances with \"transparency, efficiency and fairness\"; credits her office with clearing backlogs and speeding financial reports.",
+      "AI pilots to flag irregular payments before they go out: \"Being a watchdog isn't trying to claw money back once it's out.\"",
+      "Points to charter-school fraud prosecutions as evidence of accountability."
+     ],
+     "criticisms": [
+      "Morgan argues the state has \"a fraud problem\" her office hasn't caught, and that tracking of audit findings is outdated.",
+      "Morgan argues the office should be a stronger independent check on Democratic control of state government."
+     ],
+     "endorsements": "California Democratic Party, California Labor Federation, Equality California.",
+     "sources": [
+      {
+       "label": "CalMatters – Controller guide",
+       "url": "https://calmatters.org/california-voter-guide-2026/controller/"
+      },
+      {
+       "label": "ABC7 – Cohen vs. Morgan",
+       "url": "https://abc7news.com/post/california-controller-race-heats-democratic-incumbent-malia-cohen-republican-herb-morgan-clash-fraud-taxpayer-dollars/19902629/"
+      }
+     ]
+    },
+    {
+     "name": "Herb Morgan",
+     "ballotName": "HERB W MORGAN",
+     "ballotOccupation": "Chief Investment Officer",
+     "party": "Republican",
+     "incumbent": false,
+     "tier": "major",
+     "background": "Founded a San Diego investment firm later acquired by Cantor Fitzgerald Investment Advisors; serves as a chief investment officer.",
+     "stands": [
+      "\"We don't have a spending problem. We have a fraud problem.\"",
+      "More rigorous pre- and post-payment audits, especially of Health and Human Services programs.",
+      "Tie nonprofit grants to measured results instead of self-reporting; publish daily transaction-level spending data with AI flagging."
+     ],
+     "criticisms": [
+      "His fraud message draws on Trump administration accusations against California; Cohen counters that her office is already moving to stop improper payments up front.",
+      "Has never held public office."
+     ],
+     "endorsements": "California Republican Party, California Republican Assembly.",
+     "sources": [
+      {
+       "label": "CalMatters – Controller guide",
+       "url": "https://calmatters.org/california-voter-guide-2026/controller/"
+      },
+      {
+       "label": "ABC7 – Cohen vs. Morgan",
+       "url": "https://abc7news.com/post/california-controller-race-heats-democratic-incumbent-malia-cohen-republican-herb-morgan-clash-fraud-taxpayer-dollars/19902629/"
+      }
+     ]
+    }
+   ],
+   "order": 27
+  },
+  {
+   "id": "treasurer",
+   "page": 4,
+   "column": 2,
+   "section": "State",
+   "type": "candidate",
+   "office": "Treasurer",
+   "voteFor": 1,
+   "writeIn": false,
+   "note": "Open seat — Treasurer Fiona Ma is termed out (and running for Lt. Governor).",
+   "about": "The state's banker: manages the state's investments and cash, sells state bonds, and sits on CalPERS, CalSTRS and housing/infrastructure finance boards. Four-year term.",
+   "candidates": [
+    {
+     "name": "Jennifer Hawks",
+     "ballotName": "JENNIFER HAWKS",
+     "ballotOccupation": "Retired Business Executive",
+     "party": "Republican",
+     "incumbent": false,
+     "tier": "minor",
+     "background": "Retired Silicon Valley businessperson; recently on the executive team at Sacred Heart Schools in Atherton; local Republican Party activist. No prior elected office.",
+     "stands": [
+      "Says her outsider status gives her \"the skills and independence to provide a check on state government.\""
+     ],
+     "criticisms": [
+      "No experience in elected office or public finance administration, unlike every Treasurer of the last three decades."
+     ],
+     "endorsements": "California Republican Party, California Republican Assembly, Reform California.",
+     "sources": [
+      {
+       "label": "CalMatters – Treasurer guide",
+       "url": "https://calmatters.org/california-voter-guide-2026/treasurer/"
+      }
+     ]
+    },
+    {
+     "name": "Eleni Kounalakis",
+     "ballotName": "ELENI KOUNALAKIS",
+     "ballotOccupation": "Lieutenant Governor of California",
+     "party": "Democratic",
+     "incumbent": false,
+     "tier": "major",
+     "background": "Two-term Lieutenant Governor; former U.S. Ambassador to Hungary under President Obama; previously a housing developer in her father's Sacramento-area company (AKT Development).",
+     "stands": [
+      "Points to her votes as a UC Regent and CSU Trustee against tuition increases.",
+      "Experience on state finance and land boards."
+     ],
+     "criticisms": [
+      "She first ran for governor before switching to the Treasurer race.",
+      "Her background is in real-estate development and diplomacy rather than public finance or investment management."
+     ],
+     "endorsements": "California Labor Federation, Teamsters California, National Union of Healthcare Workers.",
+     "sources": [
+      {
+       "label": "CalMatters – Treasurer guide",
+       "url": "https://calmatters.org/california-voter-guide-2026/treasurer/"
+      }
+     ]
+    }
+   ],
+   "order": 28
+  },
+  {
+   "id": "attorney-general",
+   "page": 4,
+   "column": 2,
+   "section": "State",
+   "type": "candidate",
+   "office": "Attorney General",
+   "voteFor": 1,
+   "writeIn": false,
+   "note": "",
+   "about": "California's top lawyer and law enforcement officer: runs the Department of Justice, defends state laws, sues on behalf of the state, and oversees local prosecutors and police on some matters. Four-year term.",
+   "candidates": [
+    {
+     "name": "Rob Bonta",
+     "ballotName": "ROB BONTA",
+     "ballotOccupation": "California Attorney General",
+     "party": "Democratic",
+     "incumbent": true,
+     "tier": "major",
+     "background": "Appointed AG in 2021, elected in 2022. Former East Bay Assemblymember; first Filipino American AG.",
+     "stands": [
+      "Has filed or joined 50+ lawsuits against the second Trump administration (tariffs, immigration enforcement, federal funding cuts, National Guard deployment).",
+      "Enforces state housing laws, including suing cities that block new housing.",
+      "Gun-safety laws, consumer protection and criminal-justice reforms passed in the early 2020s."
+     ],
+     "criticisms": [
+      "Gates says Bonta is soft on crime and has overridden local control by forcing cities to approve housing.",
+      "His campaign paid ~$468,000 to a law firm in connection with the federal East Bay bribery investigation involving donors and former Oakland Mayor Sheng Thao. He is not accused of wrongdoing and returned $155,000 in donations from the family at the center of the probe."
+     ],
+     "endorsements": "California Democratic Party, California Teachers Association, California Environmental Voters.",
+     "sources": [
+      {
+       "label": "CalMatters – Attorney General guide",
+       "url": "https://calmatters.org/california-voter-guide-2026/attorney-general/"
+      },
+      {
+       "label": "KQED – campaign fund questions",
+       "url": "https://www.kqed.org/news/12065004/california-ag-rob-bonta-wont-rule-out-a-run-for-governor-amid-campaign-fund-questions"
+      }
+     ]
+    },
+    {
+     "name": "Michael Gates",
+     "ballotName": "MICHAEL E. GATES",
+     "ballotOccupation": "Deputy United States Attorney",
+     "party": "Republican",
+     "incumbent": false,
+     "tier": "major",
+     "background": "Huntington Beach City Attorney for a decade. In 2025 joined the U.S. Department of Justice Civil Rights Division as a deputy assistant attorney general under President Trump, then returned to Huntington Beach.",
+     "stands": [
+      "Law-and-order platform; opposes what he calls lenient state criminal-justice policy.",
+      "\"Restoring election confidence\" — defended Huntington Beach's voter-ID law.",
+      "Local control: led Huntington Beach's lawsuits against state housing mandates."
+     ],
+     "criticisms": [
+      "Courts ruled against Huntington Beach in major state-law fights he led, including over housing mandates and the city's voter-ID law.",
+      "Served in 2025 in the Trump Justice Department — the administration the state AG's office is currently suing dozens of times."
+     ],
+     "endorsements": "California Republican Party, California Parents Union, California Rifle & Pistol Association.",
+     "sources": [
+      {
+       "label": "CalMatters – Attorney General guide",
+       "url": "https://calmatters.org/california-voter-guide-2026/attorney-general/"
+      },
+      {
+       "label": "LAist – Gates launches campaign",
+       "url": "https://laist.com/brief/news/politics/huntington-beachs-michael-gates-launches-a-campaign-for-attorney-general"
+      }
+     ]
+    }
+   ],
+   "order": 29
+  },
+  {
+   "id": "insurance-commissioner",
+   "page": 4,
+   "column": 3,
+   "section": "State",
+   "type": "candidate",
+   "office": "Insurance Commissioner",
+   "voteFor": 1,
+   "writeIn": false,
+   "note": "Open seat; two Democrats advanced from the primary.",
+   "about": "Regulates California's insurance industry: approves or rejects rate increases for home and auto insurance, licenses insurers and agents, and handles consumer complaints. Critical now as insurers have pulled back from wildfire areas. Four-year term.",
+   "candidates": [
+    {
+     "name": "Jane Kim",
+     "ballotName": "JANE KIM",
+     "ballotOccupation": "Attorney/Consumer Advocate",
+     "party": "Democratic",
+     "incumbent": false,
+     "tier": "major",
+     "background": "Former San Francisco supervisor; attorney and consumer advocate. Helped secure free community college in SF and the city's first $15 minimum wage.",
+     "stands": [
+      "\"Natural disaster insurance for all\": a state-run authority, funded by premiums, guaranteeing wildfire and flood coverage.",
+      "Tie insurers' ability to sell auto insurance to their willingness to write home insurance.",
+      "Freeze rates while claims are pending; public dashboard of insurer performance.",
+      "Expand the state's low-cost auto insurance program to all drivers."
+     ],
+     "criticisms": [
+      "Allen and industry voices argue expanding low-cost auto insurance to everyone would undermine it for the low-income drivers it's meant for.",
+      "A state-run disaster insurer would be new and untested; how it would cover losses after a catastrophic fire season is an open question."
+     ],
+     "endorsements": "SEIU California, California Teachers Association, California Labor Federation, California Faculty Association.",
+     "sources": [
+      {
+       "label": "CalMatters – Insurance Commissioner guide",
+       "url": "https://calmatters.org/california-voter-guide-2026/insurance-commissioner/"
+      }
+     ]
+    },
+    {
+     "name": "Ben Allen",
+     "ballotName": "BEN ALLEN",
+     "ballotOccupation": "California State Senator",
+     "party": "Democratic",
+     "incumbent": false,
+     "tier": "major",
+     "background": "State Senator since 2014 (Westside/South Bay), termed out; authored post-wildfire bills expanding the insurance department's enforcement powers.",
+     "stands": [
+      "Home insurance: mitigation at the home and community level to make properties insurable.",
+      "Claims: require real-time reporting of delays and written explanations for denials.",
+      "Hire more department staff for consumer complaints.",
+      "Coordinate officials, firefighters and builders to steer development away from the highest-risk areas."
+     ],
+     "criticisms": [
+      "Kim proposes a state-run disaster insurer, arguing the market needs bolder intervention than mitigation alone as insurers drop homeowners.",
+      "He opposes expanding the low-cost auto program statewide, which Kim says would lower premiums for more drivers."
+     ],
+     "endorsements": "California Professional Firefighters, Sierra Club, California Environmental Voters, California Democratic Party, San Francisco Chronicle.",
+     "sources": [
+      {
+       "label": "CalMatters – Insurance Commissioner guide",
+       "url": "https://calmatters.org/california-voter-guide-2026/insurance-commissioner/"
+      }
+     ]
+    }
+   ],
+   "order": 30
+  },
+  {
+   "id": "boe-3",
+   "page": 4,
+   "column": 3,
+   "section": "State",
+   "type": "candidate",
+   "office": "Member, State Board of Equalization — 3rd District",
+   "voteFor": 1,
+   "writeIn": false,
+   "note": "Two Democrats.",
+   "about": "The BOE oversees property-tax assessment practices statewide: it advises county assessors, sets values for utility and railroad property, and hears some taxpayer appeals. Lawmakers stripped most of its other duties in 2017 after scandals. Four-year term.",
+   "candidates": [
+    {
+     "name": "Samuel P. Sukaton",
+     "ballotName": "SAMUEL P. SUKATON",
+     "ballotOccupation": "Labor Union Organizer",
+     "party": "Democratic",
+     "incumbent": false,
+     "tier": "minor",
+     "background": "Labor union organizer.",
+     "stands": [
+      "Little published platform information."
+     ],
+     "criticisms": [
+      "No published criticism found; has not held elected office."
+     ],
+     "endorsements": "",
+     "sources": [
+      {
+       "label": "CalMatters – Board of Equalization guide",
+       "url": "https://calmatters.org/california-voter-guide-2026/board-of-equalization/"
+      }
+     ]
+    },
+    {
+     "name": "Mike Gipson",
+     "ballotName": "MIKE GIPSON",
+     "ballotOccupation": "State Assemblymember/Father",
+     "party": "Democratic",
+     "incumbent": false,
+     "tier": "major",
+     "background": "State Assemblymember representing parts of South LA County (Carson, Compton, Watts area); former Carson City Council member.",
+     "stands": [
+      "Running on legislative experience; party and labor backing."
+     ],
+     "criticisms": [
+      "No specific criticism found in coverage of this race."
+     ],
+     "endorsements": "California Democratic Party, California Labor Federation, California Teachers Association.",
+     "sources": [
+      {
+       "label": "CalMatters – Board of Equalization guide",
+       "url": "https://calmatters.org/california-voter-guide-2026/board-of-equalization/"
+      }
+     ]
+    }
+   ],
+   "order": 31
+  },
+  {
+   "id": "superintendent",
+   "page": 4,
+   "column": 3,
+   "section": "State",
+   "type": "candidate",
+   "office": "Superintendent of Public Instruction",
+   "voteFor": 1,
+   "writeIn": true,
+   "note": "Nonpartisan office (no party labels on the ballot), though the candidates have partisan backing.",
+   "about": "Heads the California Department of Education, which administers K-12 funding, testing and state education law; sits on the State Board of Education (which sets policy). Four-year term.",
+   "candidates": [
+    {
+     "name": "Sonja Shaw",
+     "ballotName": "SONJA SHAW",
+     "ballotOccupation": "School District President",
+     "party": null,
+     "incumbent": false,
+     "tier": "major",
+     "background": "President of the Chino Valley Unified School District board.",
+     "stands": [
+      "Get \"back to basics\" in academics.",
+      "Require schools to notify parents if a student identifies as transgender (\"parental rights\"); remove what she calls \"radical ideologies\" from classrooms.",
+      "Oppose state protections for transgender students that she says override parents."
+     ],
+     "criticisms": [
+      "Critics say her board's parental-notification policy outed transgender students and violated state law (courts and the state have challenged Chino Valley's policy).",
+      "In 2023 she presided over a meeting where state Superintendent Tony Thurmond was escorted out during a debate on transgender students' rights, which critics cite as divisive leadership."
+     ],
+     "endorsements": "California Republican Party, Moms for Liberty, California Rifle & Pistol Association.",
+     "sources": [
+      {
+       "label": "CalMatters – Superintendent guide",
+       "url": "https://calmatters.org/california-voter-guide-2026/superintendent-of-public-instruction/"
+      }
+     ]
+    },
+    {
+     "name": "Richard Barrera",
+     "ballotName": "RICHARD BARRERA",
+     "ballotOccupation": "State Superintendent Advisor",
+     "party": null,
+     "incumbent": false,
+     "tier": "major",
+     "background": "President of the San Diego Unified school board; longtime labor organizer in San Diego.",
+     "stands": [
+      "Increase school funding; expand early childhood education.",
+      "Streamline the pathway to becoming a teacher to address shortages."
+     ],
+     "criticisms": [
+      "Heavily backed by the California Teachers Association; Shaw runs as the anti-establishment alternative and frames that support as a vote for the status quo amid low test scores."
+     ],
+     "endorsements": "California Teachers Association, United Domestic Workers, California Charter School Advocates.",
+     "sources": [
+      {
+       "label": "CalMatters – Superintendent guide",
+       "url": "https://calmatters.org/california-voter-guide-2026/superintendent-of-public-instruction/"
+      }
+     ]
+    }
+   ],
+   "order": 32
+  },
+  {
+   "id": "prop-1",
+   "page": 5,
+   "column": 1,
+   "section": "State",
+   "type": "measure",
+   "letter": "1",
+   "title": "$11.25 billion housing bond (legislative statute)",
+   "summary": "Authorizes $11.25B in state general obligation bonds: about $10B for affordable rental construction and preservation, supportive housing, farmworker, student and tribal housing, and homeownership/down-payment help; plus $1.25B for CalVet home loans to veterans (repaid by the veterans). Aims to fund ~40,000 rental units and help ~40,000 households buy homes.",
+   "currentLaw": "Money from the last statewide housing bonds (2018's Props 1 and 2) has largely been spent.",
+   "yesMeans": "The state can borrow $11.25B for housing programs, repaid from the General Fund over ~25–30 years.",
+   "noMeans": "No new state housing bond; programs rely on existing funds.",
+   "pros": [
+    "Supporters say California's housing shortage and 180,000+ homeless residents demand more funding for renters and first-time buyers.",
+    "Uses existing, established programs that can deploy money quickly.",
+    "Includes veterans' home loans that borrowers repay themselves."
+   ],
+   "cons": [
+    "Repaying the bond costs roughly $500–600M per year for ~25 years (~$17B total with interest).",
+    "Some Republican lawmakers say it uses veterans as a selling point while doing little for them, and that borrowing doesn't address what drives construction costs (permitting, fees, regulations).",
+    "Polling earlier in 2026 showed voters split about evenly."
+   ],
+   "fiscal": "Increased state cost of $500M–$600M annually for about 25 years to repay the bond.",
+   "ballotSupporters": "US Vets; CA Federation of Teachers; Self-Help for the Elderly; Habitat for Humanity CA; CA Alliance of Child & Family Services",
+   "ballotOpponents": "None submitted",
+   "otherSupport": "Gov. Gavin Newsom, CA Democratic Party, CA Apartment Association, California Labor Federation",
+   "otherOppose": "Some Republican state legislators",
+   "voteNeeded": "Majority (50% + 1)",
+   "note": "",
+   "options": [
+    "YES on Measure 1",
+    "NO on Measure 1"
+   ],
+   "sources": [
+    {
+     "label": "CalMatters – Prop 1",
+     "url": "https://calmatters.org/california-voter-guide-2026/proposition-1-housing-bond/"
+    },
+    {
+     "label": "LAist – Prop 1 guide",
+     "url": "https://laist.com/news/politics/voter-guides/laist-california-voter-game-plan-proposition-prop-1-november-2026-election-guide"
+    },
+    {
+     "label": "GrowSF – 14 state measures explained",
+     "url": "https://growsf.org/news/2026-07-02-14-state-measures/"
+    },
+    {
+     "label": "CA Secretary of State – Official Voter Guide",
+     "url": "https://voterguide.sos.ca.gov/"
+    }
+   ],
+   "order": 33
+  },
+  {
+   "id": "prop-2",
+   "page": 5,
+   "column": 1,
+   "section": "State",
+   "type": "measure",
+   "letter": "2",
+   "title": "Increase the state's rainy day fund (legislative constitutional amendment)",
+   "summary": "Raises the cap on California's Budget Stabilization Account (rainy day fund) from 10% to 20% of General Fund taxes; requires bigger deposits in capital-gains boom years; exempts those deposits from the state spending (Gann) limit until withdrawn; extends required debt paydowns; and allows using revenue to pay down the state's ~$20B federal unemployment-insurance debt.",
+   "currentLaw": "Voters created the rainy day fund in 2014 (Prop 2 of that year) with a 10% cap. Deposits count toward the Gann limit, which can trigger taxpayer refunds when revenue is high.",
+   "yesMeans": "The state can save up to twice as much in reserves for downturns.",
+   "noMeans": "The 10% cap and current rules stay.",
+   "pros": [
+    "Supporters say California's revenue swings with the stock market; bigger reserves would cover about half of future shortfalls instead of about a third.",
+    "Reduces boom-bust budgeting that forces cuts to schools, health care and public safety in recessions.",
+    "Backed by firefighters and the LA Chamber of Commerce as well as Democratic leaders; the Legislative Analyst has recommended larger reserves."
+   ],
+   "cons": [
+    "Opponents (Reform California, many legislative Republicans) say reserves can become a political \"slush fund.\"",
+    "Exempting deposits from the Gann limit lets the state keep more tax revenue instead of triggering refunds to taxpayers.",
+    "Money parked in reserves isn't available for current needs."
+   ],
+   "fiscal": "State budget reserves would be higher.",
+   "ballotSupporters": "CA Professional Firefighters; LA Chamber of Commerce; Gavin Newsom; Xavier Becerra; Assemblymember Jesse Gabriel",
+   "ballotOpponents": "None submitted",
+   "otherSupport": "",
+   "otherOppose": "Reform California, legislative Republicans",
+   "voteNeeded": "Majority (50% + 1)",
+   "note": "",
+   "options": [
+    "YES on Measure 2",
+    "NO on Measure 2"
+   ],
+   "sources": [
+    {
+     "label": "CalMatters – Prop 2",
+     "url": "https://calmatters.org/california-voter-guide-2026/proposition-2-rainy-day-fund/"
+    },
+    {
+     "label": "GrowSF – 14 state measures explained",
+     "url": "https://growsf.org/news/2026-07-02-14-state-measures/"
+    }
+   ],
+   "order": 34
+  },
+  {
+   "id": "prop-3",
+   "page": 5,
+   "column": 2,
+   "section": "State",
+   "type": "measure",
+   "letter": "3",
+   "title": "Make the high-income tax permanent (initiative constitutional amendment)",
+   "summary": "Makes permanent the extra income tax rates on individuals earning over ~$371,000 (adjusted for inflation) — top rates of 10.3% to 12.3% — that voters first approved in 2012 (Prop 30) and extended in 2016 (Prop 55). Revenue continues to go mainly to K-12 schools and community colleges, with some to health care.",
+   "currentLaw": "These rates are temporary and, per the ballot label, scheduled to expire in 2031.",
+   "yesMeans": "The high-income tax rates continue indefinitely.",
+   "noMeans": "The rates expire as scheduled, cutting taxes for high earners.",
+   "pros": [
+    "Supporters (CA Teachers Assn., State PTA, school nurses) say it brings in $5–15B a year for schools and health care, and losing it would mean layoffs and program cuts.",
+    "Doesn't raise anyone's taxes — it keeps current rates.",
+    "Avoids a budget cliff when the rates expire."
+   ],
+   "cons": [
+    "Opponents (CalTax, Family Business Assn., Hispanic Chambers) say California already has the highest top income-tax rate in the nation and that this could push high earners and businesses out of state.",
+    "Makes a \"temporary\" tax permanent after voters were twice told it was temporary.",
+    "Ties the budget more to volatile high-income/capital-gains revenue; GrowSF notes only part of the money ends up in classrooms."
+   ],
+   "fiscal": "Maintains $5B–$15B in annual state income tax revenue that would otherwise expire.",
+   "ballotSupporters": "California Teachers Association; CA School Nurses Organization; California State PTA; Planned Parenthood Affiliates of CA",
+   "ballotOpponents": "California Taxpayers Association; Family Business Association of California; California Hispanic Chambers of Commerce",
+   "otherSupport": "",
+   "otherOppose": "",
+   "voteNeeded": "Majority (50% + 1)",
+   "note": "",
+   "options": [
+    "YES on Measure 3",
+    "NO on Measure 3"
+   ],
+   "sources": [
+    {
+     "label": "CalMatters – Prop 3",
+     "url": "https://calmatters.org/california-voter-guide-2026/proposition-3-high-income-tax/"
+    },
+    {
+     "label": "GrowSF – 14 state measures explained",
+     "url": "https://growsf.org/news/2026-07-02-14-state-measures/"
+    }
+   ],
+   "order": 35
+  },
+  {
+   "id": "prop-4",
+   "page": 5,
+   "column": 2,
+   "section": "State",
+   "type": "measure",
+   "letter": "4",
+   "title": "Allow public financing of election campaigns (legislative statute)",
+   "summary": "Repeals California's 1988 ban on public funding of political campaigns, so the state and local governments may (but don't have to) create programs such as matching funds for small donations. Programs can't use money earmarked for education, transportation or public safety.",
+   "currentLaw": "Public campaign financing is banned statewide except in charter cities (LA and San Francisco already run programs).",
+   "yesMeans": "State and general-law local governments are allowed to create public financing programs.",
+   "noMeans": "The ban stays in place.",
+   "pros": [
+    "Supporters (League of Women Voters, CA Nurses, Common Cause) say public financing reduces the influence of big donors and special interests.",
+    "Lets candidates without wealthy backers compete and empowers small donors.",
+    "LA and SF already use such programs; this lets other cities and the state choose to."
+   ],
+   "cons": [
+    "Opponents (CalTax, Howard Jarvis, Family Business Assn., United Latinos Action) say taxpayers would be forced to fund candidates they disagree with.",
+    "Could direct money to fringe or fraudulent candidates.",
+    "Setting up and running programs costs state and local governments money."
+   ],
+   "fiscal": "Ongoing state cost of a few hundred thousand dollars a year for the Fair Political Practices Commission; any program costs depend on future decisions.",
+   "ballotSupporters": "League of Women Voters of CA; California Nurses Association; Mental Health Advocacy; Social Security Works; Consumer Watchdog",
+   "ballotOpponents": "California Taxpayers Assn; Howard Jarvis Taxpayers Assn; Family Business Assn of California; United Latinos Action",
+   "otherSupport": "",
+   "otherOppose": "",
+   "voteNeeded": "Majority (50% + 1)",
+   "note": "",
+   "options": [
+    "YES on Measure 4",
+    "NO on Measure 4"
+   ],
+   "sources": [
+    {
+     "label": "CalMatters – Prop 4",
+     "url": "https://calmatters.org/california-voter-guide-2026/proposition-4-public-fundraising/"
+    }
+   ],
+   "order": 36
+  },
+  {
+   "id": "prop-5",
+   "page": 5,
+   "column": 3,
+   "section": "State",
+   "type": "measure",
+   "letter": "5",
+   "title": "Change the recall process for statewide officers (legislative constitutional amendment)",
+   "summary": "Ends the two-question recall ballot for statewide officers. Voters would decide only whether to remove the official. If recalled, the office is filled by the line of succession (e.g., the Lieutenant Governor becomes governor) or by appointment, or by a later special election — and the recalled official could run in that later election.",
+   "currentLaw": "Voters answer two questions at once: recall yes/no, and who should replace the official. A replacement can win with a small plurality (as in 2003, when Arnold Schwarzenegger replaced Gray Davis).",
+   "yesMeans": "Recalls become a single yes/no question; vacancies are filled by succession, appointment or later election.",
+   "noMeans": "The current recall-and-replace ballot stays.",
+   "pros": [
+    "Supporters (Secretary of State Weber, Common Cause, League of Women Voters, CA Democratic Party) say a recall should be about whether the official should go — not a contest a replacement can win with a small fraction of votes.",
+    "Reduces \"political gamesmanship\" seen in the 2003 and 2021 recalls.",
+    "Authored by a senator who was himself recalled in 2018."
+   ],
+   "cons": [
+    "Opponents (CA Republican Party, Election Integrity Project, Reform California) say having the Lieutenant Governor — usually of the same party — automatically take over would discourage recalls and protect incumbents.",
+    "Weakens a tool voters have used to hold officials accountable."
+   ],
+   "fiscal": "Net effect unknown; in a recall, savings or costs of millions of dollars depending on the office.",
+   "ballotSupporters": "None submitted",
+   "ballotOpponents": "None submitted",
+   "otherSupport": "Secretary of State Shirley Weber, CA Common Cause, League of Women Voters, CA Democratic Party, Sacramento Bee",
+   "otherOppose": "CA Republican Party, Election Integrity Project California, Reform California",
+   "voteNeeded": "Majority (50% + 1)",
+   "note": "",
+   "options": [
+    "YES on Measure 5",
+    "NO on Measure 5"
+   ],
+   "sources": [
+    {
+     "label": "CalMatters – Prop 5",
+     "url": "https://calmatters.org/california-voter-guide-2026/proposition-5-recall-reform/"
+    }
+   ],
+   "order": 37
+  },
+  {
+   "id": "prop-37",
+   "page": 5,
+   "column": 3,
+   "section": "State",
+   "type": "measure",
+   "letter": "37",
+   "title": "$25 billion loan program for middle-income buyers of new homes (initiative statute)",
+   "summary": "Lets the California Housing Finance Agency issue up to $25B in bonds to offer fixed-rate second mortgages covering up to 17% of the price of a newly built home priced below ~$1.5M. Buyers must be California residents who live in the home, meet income limits (up to ~200% of area median income) and put at least 3% down. Bonds are repaid from borrowers' mortgage payments, not the state General Fund. Includes an optional builder track tied to labor standards and construction-defect rule changes.",
+   "currentLaw": "No state program like this; buyers typically need large down payments or private mortgage insurance.",
+   "yesMeans": "CalHFA can create the new-home loan program and borrow up to $25B to fund it.",
+   "noMeans": "No new program or bonds.",
+   "pros": [
+    "Supporters (Realtors, carpenters' union, United Nurses, Treasurer Fiona Ma) say it puts homeownership within reach of the middle class \"without costing taxpayers a dime.\"",
+    "Limited to new construction, so it should encourage more building instead of bidding up existing homes.",
+    "The Legislative Analyst estimates no direct state or local costs."
+   ],
+   "cons": [
+    "Opponents (League of Women Voters, Reform California) say the state shouldn't be in the mortgage business and that it doesn't address the underlying causes of high housing costs.",
+    "Some opponents worry it enables deeper consumer debt (as little as 3% down) without solving underlying affordability problems."
+   ],
+   "fiscal": "No direct state or local costs; bonds repaid by borrowers' mortgage payments.",
+   "ballotSupporters": "United Nurses Associations of California; California Conference of Carpenters; California State Treasurer Fiona Ma",
+   "ballotOpponents": "None submitted",
+   "otherSupport": "California Association of Realtors, SEIU, CA Democratic Party, Sacramento Bee",
+   "otherOppose": "League of Women Voters, Reform California",
+   "voteNeeded": "Majority (50% + 1)",
+   "note": "",
+   "options": [
+    "YES on Measure 37",
+    "NO on Measure 37"
+   ],
+   "sources": [
+    {
+     "label": "CalMatters – Prop 37",
+     "url": "https://calmatters.org/california-voter-guide-2026/proposition-37-homebuyers-loan/"
+    },
+    {
+     "label": "GrowSF – 14 state measures explained",
+     "url": "https://growsf.org/news/2026-07-02-14-state-measures/"
+    }
+   ],
+   "order": 38
+  },
+  {
+   "id": "prop-38",
+   "page": 6,
+   "column": 1,
+   "section": "State",
+   "type": "measure",
+   "letter": "38",
+   "title": "$8.4 billion bond for immunology research (initiative statute)",
+   "summary": "Authorizes $8.4B in general obligation bonds for immunology and immunotherapy research: half to a single University of California-affiliated nonprofit research institute, half to competitive grants. $4.2B is earmarked for cancer, heart disease and Alzheimer's. Drugs developed must be offered to Californians at a 20% discount, and 10% of drug revenues return to the state.",
+   "currentLaw": "No dedicated state immunology research fund. (Similar model: the stem-cell institute created by Props 71 in 2004 and 14 in 2020.)",
+   "yesMeans": "The state borrows $8.4B for immunology research grants and the UC-affiliated institute.",
+   "noMeans": "No new research bond.",
+   "pros": [
+    "Supporters (Michael J. Fox Foundation, Alzheimer's LA, Kidney Cancer Assn., nurses) say most diseases involve the immune system and immunotherapy holds huge promise for cures.",
+    "Backfills federal research cuts proposed by the Trump administration.",
+    "Drug discounts and revenue-sharing could offset some costs."
+   ],
+   "cons": [
+    "Critics (Stanford's Robert Kaplan, League of Women Voters, OC Register) say it targets one narrow slice of research instead of a broad range.",
+    "Half the money goes to one institute; GrowSF reports the criteria closely match UCLA's existing institute, and the measure is bankrolled by philanthropist Gary Michelson.",
+    "Adds $500–600M a year in debt payments for about 20 years; research may not yield marketable drugs."
+   ],
+   "fiscal": "Increased state cost of $500M–$600M annually for about 20 years to repay the bond, possibly offset if funded research generates revenue.",
+   "ballotSupporters": "Michael J. Fox Foundation; Alzheimer's Los Angeles; Kidney Cancer Assoc; American Nurses Assoc/CA",
+   "ballotOpponents": "Robert M Kaplan Ph.D.",
+   "otherSupport": "City of Hope, American Association of Immunologists, CA Democratic Party",
+   "otherOppose": "League of Women Voters, Orange County Register editorial board",
+   "voteNeeded": "Majority (50% + 1)",
+   "note": "",
+   "options": [
+    "YES on Measure 38",
+    "NO on Measure 38"
+   ],
+   "sources": [
+    {
+     "label": "CalMatters – Prop 38",
+     "url": "https://calmatters.org/california-voter-guide-2026/proposition-38-research-bond/"
+    },
+    {
+     "label": "GrowSF – 14 state measures explained",
+     "url": "https://growsf.org/news/2026-07-02-14-state-measures/"
+    }
+   ],
+   "order": 39
+  },
+  {
+   "id": "prop-39",
+   "page": 6,
+   "column": 1,
+   "section": "State",
+   "type": "measure",
+   "letter": "39",
+   "title": "Require government ID to vote (initiative constitutional amendment)",
+   "summary": "Requires voters to show government-issued identification to vote in person, and requires mail voters to write the last four digits of a government ID number on their ballot envelope — mail ballots without it would be invalid. Also calls for citizenship verification for voter registration.",
+   "currentLaw": "Voters provide a driver's license/ID number or last four of their Social Security number when registering; ID isn't generally required at the polls; mail ballots are verified by signature.",
+   "yesMeans": "ID requirements apply to in-person and mail voting.",
+   "noMeans": "Current voting and verification rules stay.",
+   "pros": [
+    "Supporters (CA Republican Party, Howard Jarvis, The Transparency Foundation, Latino American Political Assn.) say ID requirements strengthen trust in elections.",
+    "Most states require some form of voter ID.",
+    "Adds a check beyond signature matching for mail ballots."
+   ],
+   "cons": [
+    "Opponents (ACLU, Common Cause, League of Women Voters) say it would block eligible voters who lack a license or documents — disproportionately people with disabilities, low-income and recently moved voters.",
+    "Mail ballots missing the ID digits would be thrown out, which could disqualify many valid votes.",
+    "Costs tens to hundreds of millions per year; the citizenship-check provision likely faces federal legal challenges."
+   ],
+   "fiscal": "Costs of tens of millions to low hundreds of millions of dollars each year to implement.",
+   "ballotSupporters": "The Transparency Foundation; Latino American Political Assn; Howard Jarvis Taxpayers Assn; CA Women's Leadership Assn",
+   "ballotOpponents": "ACLU California Action; Common Cause; League of Women Voters of California",
+   "otherSupport": "CA Republican Party, Reform California, Richard Uihlein",
+   "otherOppose": "CA Democratic Party",
+   "voteNeeded": "Majority (50% + 1)",
+   "note": "",
+   "options": [
+    "YES on Measure 39",
+    "NO on Measure 39"
+   ],
+   "sources": [
+    {
+     "label": "CalMatters – Prop 39",
+     "url": "https://calmatters.org/california-voter-guide-2026/proposition-39-voter-id/"
+    },
+    {
+     "label": "GrowSF – 14 state measures explained",
+     "url": "https://growsf.org/news/2026-07-02-14-state-measures/"
+    }
+   ],
+   "order": 40
+  },
+  {
+   "id": "prop-40",
+   "page": 6,
+   "column": 2,
+   "section": "State",
+   "type": "measure",
+   "letter": "40",
+   "title": "One-time 5% tax on billionaires (initiative constitutional amendment and statute)",
+   "summary": "Imposes a one-time 5% tax on the net worth of California residents with assets over $1 billion (roughly 200 people), payable over several years. About 90% of revenue goes to health care (to offset federal Medicaid cuts) and the rest to education and food assistance. The revenue is exempt from school-funding and spending-limit formulas.",
+   "currentLaw": "California has no wealth tax; it taxes income, including realized capital gains.",
+   "yesMeans": "Billionaires pay a one-time 5% tax on their wealth, funding mostly health care.",
+   "noMeans": "No wealth tax.",
+   "pros": [
+    "Supporters (SEIU-UHW, Sen. Bernie Sanders, Teamsters, AFSCME, CA Democratic Party) say billionaires gained most from recent federal tax cuts while Congress cut Medicaid, threatening hospitals and clinics.",
+    "Could raise tens of billions (supporters estimate ~$100B) for health care without touching anyone else.",
+    "One-time tax limits long-term economic effects."
+   ],
+   "cons": [
+    "Opponents (Business Roundtable, CA Medical Assn., CTA, Planned Parenthood, firefighters, Ron Conway, Chris Larsen) say billionaires will leave or have already left, shrinking future income-tax revenue.",
+    "Valuing private companies and assets is hard and invites litigation; constitutional challenges are expected.",
+    "Some health and education groups say they were shut out of drafting and that it doesn't fix structural health funding problems."
+   ],
+   "fiscal": "Temporary revenue increase of tens of billions of dollars over several years; possible ongoing loss of less than $1B per year in income tax if some billionaires move away.",
+   "ballotSupporters": "US Senator Bernie Sanders; SEIU United Healthcare Workers West",
+   "ballotOpponents": "California Primary Care Association; California School Boards Association; California Taxpayers Association",
+   "otherSupport": "",
+   "otherOppose": "",
+   "voteNeeded": "Majority (50% + 1)",
+   "note": "Prop 40 contains a clause: if Prop 41 or Prop 42 passes with MORE yes votes than Prop 40, Prop 40 is void even if it also passes (and Props 41/42 contain matching language). Your votes on 40, 41 and 42 interact.",
+   "options": [
+    "YES on Measure 40",
+    "NO on Measure 40"
+   ],
+   "sources": [
+    {
+     "label": "CalMatters – Prop 40",
+     "url": "https://calmatters.org/california-voter-guide-2026/proposition-40-billionaire-tax/"
+    },
+    {
+     "label": "LAist – Prop 40 guide",
+     "url": "https://laist.com/news/politics/voter-guides/2026-election-california-general-prop-40-billionaire-tax"
+    },
+    {
+     "label": "GrowSF – 14 state measures explained",
+     "url": "https://growsf.org/news/2026-07-02-14-state-measures/"
+    }
+   ],
+   "order": 41
+  },
+  {
+   "id": "prop-41",
+   "page": 6,
+   "column": 2,
+   "section": "State",
+   "type": "measure",
+   "letter": "41",
+   "title": "Audits for new special taxes; count them toward the spending limit (initiative constitutional amendment)",
+   "summary": "Requires the state auditor to review programs before a new state special tax goes to voters (looking for ways to cut spending at least 10%) and recurring audits afterward. Any new state special tax enacted after Jan. 1, 2026 would count toward the state's Gann spending limit — nullifying taxes that exempt themselves, such as Prop 40.",
+   "currentLaw": "Some voter-approved special taxes are exempt from the Gann spending limit; there's no required pre-election audit.",
+   "yesMeans": "New special taxes face audits and count toward the spending limit; conflicting taxes enacted after Jan. 1, 2026 are nullified.",
+   "noMeans": "Current rules for special taxes stay.",
+   "pros": [
+    "Supporters (CalCPAs, CalTax, CalAsian Chamber) say voters deserve to know whether programs are spending money well before being asked for new taxes.",
+    "Counting special taxes toward the spending limit makes taxpayer refunds more likely when revenue surges.",
+    "Accountability for programs that keep asking for more money."
+   ],
+   "cons": [
+    "Prop 40's sponsor (SEIU-UHW) and Sen. Bernie Sanders say its real purpose is to \"trick voters\" into blocking the billionaire tax.",
+    "Backed financially by billionaires including Google co-founder Sergey Brin and Stewart Resnick.",
+    "Could make it harder to fund programs voters want through special taxes."
+   ],
+   "fiscal": "Net fiscal effect unknown; depends on future decisions by voters and policymakers.",
+   "ballotSupporters": "CA Society of Certified Public Accountants (CalCPAs); CalAsian Chamber of Commerce; California Taxpayers Association",
+   "ballotOpponents": "US Senator Bernie Sanders; SEIU United Healthcare Workers West",
+   "otherSupport": "Reform California, Sergey Brin, Stewart Resnick",
+   "otherOppose": "CA Democratic Party",
+   "voteNeeded": "Majority (50% + 1)",
+   "note": "Prop 40 contains a clause: if Prop 41 or Prop 42 passes with MORE yes votes than Prop 40, Prop 40 is void even if it also passes (and Props 41/42 contain matching language). Your votes on 40, 41 and 42 interact.",
+   "options": [
+    "YES on Measure 41",
+    "NO on Measure 41"
+   ],
+   "sources": [
+    {
+     "label": "CalMatters – Prop 41",
+     "url": "https://calmatters.org/california-voter-guide-2026/proposition-41-tax-audits/"
+    },
+    {
+     "label": "GrowSF – 14 state measures explained",
+     "url": "https://growsf.org/news/2026-07-02-14-state-measures/"
+    }
+   ],
+   "order": 42
+  },
+  {
+   "id": "prop-42",
+   "page": 6,
+   "column": 3,
+   "section": "State",
+   "type": "measure",
+   "letter": "42",
+   "title": "Ban new state taxes on personal property and retroactive taxes (initiative constitutional amendment)",
+   "summary": "Amends the constitution to prohibit any new state tax on the ownership of personal property (everything other than real estate — e.g., stocks, retirement accounts, business stakes, possessions) and any tax that applies retroactively based on past activity. Nullifies conflicting taxes enacted after Jan. 1, 2026, which would include Prop 40.",
+   "currentLaw": "The constitution doesn't specifically prohibit a state wealth tax or most retroactive taxes.",
+   "yesMeans": "Wealth taxes and retroactive state taxes are banned going forward, and Prop 40 would be void if 42 gets more votes.",
+   "noMeans": "The state keeps the option to enact such taxes.",
+   "pros": [
+    "Supporters (CA Professional Firefighters, State Building Trades, AMVETS, peace officers) say Californians shouldn't be taxed simply for owning retirement accounts, investments or possessions.",
+    "Protects against future taxes on unrealized \"paper\" gains, including in pensions.",
+    "Blocks retroactive taxes that change the rules after the fact."
+   ],
+   "cons": [
+    "SEIU-UHW and Sen. Bernie Sanders say it's designed to protect billionaires and kill Prop 40, not to protect ordinary residents.",
+    "Permanently limits the state's options to raise revenue in a future crisis.",
+    "Major funding from billionaires including Sergey Brin."
+   ],
+   "fiscal": "Possibility that state tax revenues will not go up as much in the future.",
+   "ballotSupporters": "CA Professional Firefighters; State Building & Construction Trades Council of CA; AMVETS Department of CA",
+   "ballotOpponents": "US Senator Bernie Sanders; SEIU United Healthcare Workers West",
+   "otherSupport": "Reform California, Peace Officers Research Assn. of CA, Sergey Brin",
+   "otherOppose": "CA Democratic Party",
+   "voteNeeded": "Majority (50% + 1)",
+   "note": "Prop 40 contains a clause: if Prop 41 or Prop 42 passes with MORE yes votes than Prop 40, Prop 40 is void even if it also passes (and Props 41/42 contain matching language). Your votes on 40, 41 and 42 interact.",
+   "options": [
+    "YES on Measure 42",
+    "NO on Measure 42"
+   ],
+   "sources": [
+    {
+     "label": "CalMatters – Prop 42",
+     "url": "https://calmatters.org/california-voter-guide-2026/proposition-42-property-taxes/"
+    },
+    {
+     "label": "LAist – Prop 42 guide",
+     "url": "https://laist.com/news/politics/voter-guides/2026-election-california-general-proposition-42"
+    }
+   ],
+   "order": 43
+  },
+  {
+   "id": "prop-43",
+   "page": 7,
+   "column": 1,
+   "section": "State",
+   "type": "measure",
+   "letter": "43",
+   "title": "Two-thirds vote for citizen-initiated local special taxes (legislative constitutional amendment)",
+   "summary": "Starting Jan. 1, 2027, local special taxes (taxes earmarked for a specific purpose) placed on the ballot by citizen petition would need a two-thirds vote to pass, the same as special taxes placed by local governments. Existing taxes are unaffected.",
+   "currentLaw": "Since a 2017 court ruling, citizen-initiated local special taxes need only a simple majority, while government-placed ones need two-thirds. (LA's Measure FD on this ballot is a citizen initiative under that rule.)",
+   "yesMeans": "All future local special taxes need two-thirds approval.",
+   "noMeans": "Citizen-initiated special taxes can still pass with a simple majority.",
+   "pros": [
+    "Supporters (CalTax, Family Business Assn., Hispanic Chambers, Howard Jarvis) say special interests exploit the majority threshold, often in low-turnout elections.",
+    "Restores the two-thirds protection voters understood Prop 13 to require.",
+    "The Legislature placed it near-unanimously as a compromise to avoid a broader anti-tax initiative."
+   ],
+   "cons": [
+    "Opponents (CA Professional Firefighters, CA Federation of Teachers, SEIU nurses) say it would make it much harder to fund local services like fire, schools and health care.",
+    "Lets a one-third minority block measures most voters support.",
+    "Takes power away from citizens who gather signatures."
+   ],
+   "fiscal": "Local tax revenues may not grow as much in the future due to the higher threshold.",
+   "ballotSupporters": "California Taxpayers Association; Family Business Association of California; California Hispanic Chambers of Commerce",
+   "ballotOpponents": "California Professional Firefighters; California Federation of Teachers; Nurse Alliance of SEIU CA",
+   "otherSupport": "Howard Jarvis Taxpayers Assn., Reform California, Southern California News Group",
+   "otherOppose": "CA Democratic Party, SEIU Local 1000, Sacramento Bee",
+   "voteNeeded": "Majority (50% + 1)",
+   "note": "",
+   "options": [
+    "YES on Measure 43",
+    "NO on Measure 43"
+   ],
+   "sources": [
+    {
+     "label": "CalMatters – Prop 43",
+     "url": "https://calmatters.org/california-voter-guide-2026/proposition-43-tax-threshold/"
+    },
+    {
+     "label": "GrowSF – 14 state measures explained",
+     "url": "https://growsf.org/news/2026-07-02-14-state-measures/"
+    }
+   ],
+   "order": 44
+  },
+  {
+   "id": "prop-44",
+   "page": 7,
+   "column": 1,
+   "section": "State",
+   "type": "measure",
+   "letter": "44",
+   "title": "Community health clinics must spend 90% of revenue on programs (initiative statute)",
+   "summary": "Requires nonprofit Federally Qualified Health Centers (community clinics serving low-income and underserved patients) to spend at least 90% of annual revenue on \"program services\" advancing their charitable purpose, including patient care. The Attorney General would define qualifying expenses and could impose penalties on clinics that fall short.",
+   "currentLaw": "Clinics are regulated by state and federal health agencies but have no minimum spending ratio.",
+   "yesMeans": "Clinics must meet the 90% program-spending rule or face penalties.",
+   "noMeans": "No new spending requirement.",
+   "pros": [
+    "Sponsor SEIU-UHW says clinics should spend more on patient care and less on executive pay and overhead.",
+    "With federal cuts expected to increase the uninsured, every dollar should go to care.",
+    "Gives the AG enforcement power and transparency over clinic finances."
+   ],
+   "cons": [
+    "Opponents (American Academy of Pediatrics CA, school nurses, CA Academy of Family Physicians, CA Medical Assn., Planned Parenthood, clinics) say clinics are already heavily regulated and the measure is redundant.",
+    "Opponents estimate $1.7B in noncompliance penalties in year one, which could force clinics to cut services or close.",
+    "Clinics argue it's a union pressure tactic and possibly preempted by federal law; much depends on how \"program services\" is defined."
+   ],
+   "fiscal": "Increased state costs in the low tens of millions of dollars per year, covered by fees.",
+   "ballotSupporters": "None submitted",
+   "ballotOpponents": "American Academy of Pediatrics CA; CA School Nurses Org; CA Academy of Family Physicians; CA Medical Assoc",
+   "otherSupport": "SEIU-United Healthcare Workers West (sponsor)",
+   "otherOppose": "California Primary Care Association, Planned Parenthood Affiliates of CA, CA Hospital Association, CA Democratic Party",
+   "voteNeeded": "Majority (50% + 1)",
+   "note": "",
+   "options": [
+    "YES on Measure 44",
+    "NO on Measure 44"
+   ],
+   "sources": [
+    {
+     "label": "CalMatters – Prop 44",
+     "url": "https://calmatters.org/california-voter-guide-2026/proposition-44-clinic-funding/"
+    },
+    {
+     "label": "GrowSF – 14 state measures explained",
+     "url": "https://growsf.org/news/2026-07-02-14-state-measures/"
+    }
+   ],
+   "order": 45
+  },
+  {
+   "id": "prop-45",
+   "page": 7,
+   "column": 2,
+   "section": "State",
+   "type": "measure",
+   "letter": "45",
+   "title": "Speed up environmental review for certain projects (initiative statute)",
+   "summary": "Amends the California Environmental Quality Act (CEQA) for designated \"essential\" projects — including most housing, transportation, water, health, broadband, school and wildfire-mitigation projects: sets a 365-day deadline to finish environmental review, requires courts to resolve lawsuits within 270 days, and narrows legal challenges. Builds on the Legislature's 2025 CEQA reforms.",
+   "currentLaw": "CEQA requires environmental review of most public and private projects; reviews and lawsuits have no firm deadlines and can take years.",
+   "yesMeans": "Qualifying projects get deadline-driven reviews and faster, narrower court challenges.",
+   "noMeans": "Current CEQA procedures stay.",
+   "pros": [
+    "Supporters (CA Chamber, Children's Hospital Assn., CA Water Assn., CA Council for Affordable Housing, CA Building Industry Assn.) say CEQA delays and \"frivolous litigation\" drive up costs for housing and infrastructure.",
+    "Keeps environmental protections but adds deadlines.",
+    "Faster delivery of housing, water and clean-energy projects."
+   ],
+   "cons": [
+    "Opponents (Coalition for Clean Air, CA Environmental Voters, Physicians for Social Responsibility, National Wildlife Federation, Sierra Club, CA Labor Federation) say it weakens protections against harmful development.",
+    "Rushed reviews could cause poor planning with long-term costs to communities and taxpayers.",
+    "Up-front government costs in the high tens of millions per year, possibly over $100M."
+   ],
+   "fiscal": "Initial state and local costs likely in the high tens of millions of dollars, potentially over $100M annually, partly covered by fees. Longer-term effects uncertain.",
+   "ballotSupporters": "California Children's Hospital Association; California Water Association; California Council for Affordable Housing",
+   "ballotOpponents": "Coalition for Clean Air; CA Environmental Voters; Physicians for Social Responsibility, LA; National Wildlife Federation",
+   "otherSupport": "CA Chamber of Commerce, CA Republican Party, CA Hospital Association, CA Building Industry Association",
+   "otherOppose": "California Labor Federation, CA Democratic Party, CA Nurses Association, Sierra Club California, Clean Water Action",
+   "voteNeeded": "Majority (50% + 1)",
+   "note": "",
+   "options": [
+    "YES on Measure 45",
+    "NO on Measure 45"
+   ],
+   "sources": [
+    {
+     "label": "CalMatters – Prop 45",
+     "url": "https://calmatters.org/california-voter-guide-2026/proposition-45-environmental-review/"
+    },
+    {
+     "label": "GrowSF – 14 state measures explained",
+     "url": "https://growsf.org/news/2026-07-02-14-state-measures/"
+    }
+   ],
+   "order": 46
+  },
+  {
+   "id": "ret-groban",
+   "page": 7,
+   "column": 2,
+   "section": "State Judicial",
+   "type": "retention",
+   "office": "Associate Justice, Supreme Court of California",
+   "court": "Supreme Court of California",
+   "seatTitle": "Associate Justice",
+   "justice": "Joshua Groban",
+   "background": "Appointed by Gov. Jerry Brown in 2018. Before joining the court he was Brown's senior adviser in charge of judicial appointments, and earlier a private-practice litigator in antitrust and intellectual property. No organized campaign for or against his retention was found.",
+   "options": [
+    "YES",
+    "NO"
+   ],
+   "sources": [
+    {
+     "label": "BallotExplained – CA appellate courts",
+     "url": "https://ballotexplained.com/races/california/appellate-courts"
+    },
+    {
+     "label": "LACBA – retention election statement",
+     "url": "https://lacba.org/?pg=lacba-news&blAction=showEntry&blogEntry=152564"
+    }
+   ],
+   "order": 47
+  },
+  {
+   "id": "ret-evans",
+   "page": 7,
+   "column": 2,
+   "section": "State Judicial",
+   "type": "retention",
+   "office": "Associate Justice, Supreme Court of California",
+   "court": "Supreme Court of California",
+   "seatTitle": "Associate Justice",
+   "justice": "Kelli M. Evans",
+   "background": "Appointed by Gov. Gavin Newsom in 2022. Previously an Alameda County Superior Court judge, chief deputy legal affairs secretary to Gov. Newsom, a civil-rights lawyer and a public defender. No organized campaign for or against her retention was found.",
+   "options": [
+    "YES",
+    "NO"
+   ],
+   "sources": [
+    {
+     "label": "BallotExplained – CA appellate courts",
+     "url": "https://ballotexplained.com/races/california/appellate-courts"
+    },
+    {
+     "label": "LACBA – retention election statement",
+     "url": "https://lacba.org/?pg=lacba-news&blAction=showEntry&blogEntry=152564"
+    }
+   ],
+   "order": 48
+  },
+  {
+   "id": "ret-adams",
+   "page": 7,
+   "column": 3,
+   "section": "State Judicial",
+   "type": "retention",
+   "office": "Presiding Justice, Court of Appeal, Second District, Division Three",
+   "court": "Court of Appeal, Second District, Division Three",
+   "seatTitle": "Presiding Justice",
+   "justice": "Rashida A. Adams",
+   "background": "Little independent coverage exists for individual appellate justices, and no organized campaign for or against this justice was found. The LA County Bar Association \"strongly endorses\" YES on all justices on this ballot, saying none has had disciplinary issues with the Commission on Judicial Performance.",
+   "options": [
+    "YES",
+    "NO"
+   ],
+   "sources": [
+    {
+     "label": "LACBA – retention election statement",
+     "url": "https://lacba.org/?pg=lacba-news&blAction=showEntry&blogEntry=152564"
+    },
+    {
+     "label": "Ballotpedia – CA Second District Court of Appeal",
+     "url": "https://ballotpedia.org/California_Second_District_Court_of_Appeal"
+    },
+    {
+     "label": "California Courts – about judicial selection",
+     "url": "https://newsroom.courts.ca.gov/news/what-know-about-judicial-selection"
+    }
+   ],
+   "order": 49
+  },
+  {
+   "id": "ret-zukin",
+   "page": 7,
+   "column": 3,
+   "section": "State Judicial",
+   "type": "retention",
+   "office": "Presiding Justice, Court of Appeal, Second District, Division Four",
+   "court": "Court of Appeal, Second District, Division Four",
+   "seatTitle": "Presiding Justice",
+   "justice": "Helen Zukin",
+   "background": "Little independent coverage exists for individual appellate justices, and no organized campaign for or against this justice was found. The LA County Bar Association \"strongly endorses\" YES on all justices on this ballot, saying none has had disciplinary issues with the Commission on Judicial Performance.",
+   "options": [
+    "YES",
+    "NO"
+   ],
+   "sources": [
+    {
+     "label": "LACBA – retention election statement",
+     "url": "https://lacba.org/?pg=lacba-news&blAction=showEntry&blogEntry=152564"
+    },
+    {
+     "label": "Ballotpedia – CA Second District Court of Appeal",
+     "url": "https://ballotpedia.org/California_Second_District_Court_of_Appeal"
+    },
+    {
+     "label": "California Courts – about judicial selection",
+     "url": "https://newsroom.courts.ca.gov/news/what-know-about-judicial-selection"
+    }
+   ],
+   "order": 50
+  },
+  {
+   "id": "ret-hoffstadt",
+   "page": 7,
+   "column": 3,
+   "section": "State Judicial",
+   "type": "retention",
+   "office": "Presiding Justice, Court of Appeal, Second District, Division Five",
+   "court": "Court of Appeal, Second District, Division Five",
+   "seatTitle": "Presiding Justice",
+   "justice": "Brian M. Hoffstadt",
+   "background": "Little independent coverage exists for individual appellate justices, and no organized campaign for or against this justice was found. The LA County Bar Association \"strongly endorses\" YES on all justices on this ballot, saying none has had disciplinary issues with the Commission on Judicial Performance.",
+   "options": [
+    "YES",
+    "NO"
+   ],
+   "sources": [
+    {
+     "label": "LACBA – retention election statement",
+     "url": "https://lacba.org/?pg=lacba-news&blAction=showEntry&blogEntry=152564"
+    },
+    {
+     "label": "Ballotpedia – CA Second District Court of Appeal",
+     "url": "https://ballotpedia.org/California_Second_District_Court_of_Appeal"
+    },
+    {
+     "label": "California Courts – about judicial selection",
+     "url": "https://newsroom.courts.ca.gov/news/what-know-about-judicial-selection"
+    }
+   ],
+   "order": 51
+  },
+  {
+   "id": "ret-cody",
+   "page": 7,
+   "column": 3,
+   "section": "State Judicial",
+   "type": "retention",
+   "office": "Presiding Justice, Court of Appeal, Second District, Division Six",
+   "court": "Court of Appeal, Second District, Division Six",
+   "seatTitle": "Presiding Justice",
+   "justice": "Tari L. Cody",
+   "background": "Little independent coverage exists for individual appellate justices, and no organized campaign for or against this justice was found. The LA County Bar Association \"strongly endorses\" YES on all justices on this ballot, saying none has had disciplinary issues with the Commission on Judicial Performance.",
+   "options": [
+    "YES",
+    "NO"
+   ],
+   "sources": [
+    {
+     "label": "LACBA – retention election statement",
+     "url": "https://lacba.org/?pg=lacba-news&blAction=showEntry&blogEntry=152564"
+    },
+    {
+     "label": "Ballotpedia – CA Second District Court of Appeal",
+     "url": "https://ballotpedia.org/California_Second_District_Court_of_Appeal"
+    },
+    {
+     "label": "California Courts – about judicial selection",
+     "url": "https://newsroom.courts.ca.gov/news/what-know-about-judicial-selection"
+    }
+   ],
+   "order": 52
+  },
+  {
+   "id": "ret-martinez",
+   "page": 8,
+   "column": 1,
+   "section": "State Judicial",
+   "type": "retention",
+   "office": "Presiding Justice, Court of Appeal, Second District, Division Seven",
+   "court": "Court of Appeal, Second District, Division Seven",
+   "seatTitle": "Presiding Justice",
+   "justice": "Gonzalo C. Martinez",
+   "background": "Little independent coverage exists for individual appellate justices, and no organized campaign for or against this justice was found. The LA County Bar Association \"strongly endorses\" YES on all justices on this ballot, saying none has had disciplinary issues with the Commission on Judicial Performance.",
+   "options": [
+    "YES",
+    "NO"
+   ],
+   "sources": [
+    {
+     "label": "LACBA – retention election statement",
+     "url": "https://lacba.org/?pg=lacba-news&blAction=showEntry&blogEntry=152564"
+    },
+    {
+     "label": "Ballotpedia – CA Second District Court of Appeal",
+     "url": "https://ballotpedia.org/California_Second_District_Court_of_Appeal"
+    },
+    {
+     "label": "California Courts – about judicial selection",
+     "url": "https://newsroom.courts.ca.gov/news/what-know-about-judicial-selection"
+    }
+   ],
+   "order": 53
+  },
+  {
+   "id": "ret-kim",
+   "page": 8,
+   "column": 1,
+   "section": "State Judicial",
+   "type": "retention",
+   "office": "Associate Justice, Court of Appeal, Second District, Division One",
+   "court": "Court of Appeal, Second District, Division One",
+   "seatTitle": "Associate Justice",
+   "justice": "Michelle C. Kim",
+   "background": "Little independent coverage exists for individual appellate justices, and no organized campaign for or against this justice was found. The LA County Bar Association \"strongly endorses\" YES on all justices on this ballot, saying none has had disciplinary issues with the Commission on Judicial Performance.",
+   "options": [
+    "YES",
+    "NO"
+   ],
+   "sources": [
+    {
+     "label": "LACBA – retention election statement",
+     "url": "https://lacba.org/?pg=lacba-news&blAction=showEntry&blogEntry=152564"
+    },
+    {
+     "label": "Ballotpedia – CA Second District Court of Appeal",
+     "url": "https://ballotpedia.org/California_Second_District_Court_of_Appeal"
+    },
+    {
+     "label": "California Courts – about judicial selection",
+     "url": "https://newsroom.courts.ca.gov/news/what-know-about-judicial-selection"
+    }
+   ],
+   "order": 54
+  },
+  {
+   "id": "ret-weingart",
+   "page": 8,
+   "column": 1,
+   "section": "State Judicial",
+   "type": "retention",
+   "office": "Associate Justice, Court of Appeal, Second District, Division One",
+   "court": "Court of Appeal, Second District, Division One",
+   "seatTitle": "Associate Justice",
+   "justice": "Gregory J. Weingart",
+   "background": "Little independent coverage exists for individual appellate justices, and no organized campaign for or against this justice was found. The LA County Bar Association \"strongly endorses\" YES on all justices on this ballot, saying none has had disciplinary issues with the Commission on Judicial Performance.",
+   "options": [
+    "YES",
+    "NO"
+   ],
+   "sources": [
+    {
+     "label": "LACBA – retention election statement",
+     "url": "https://lacba.org/?pg=lacba-news&blAction=showEntry&blogEntry=152564"
+    },
+    {
+     "label": "Ballotpedia – CA Second District Court of Appeal",
+     "url": "https://ballotpedia.org/California_Second_District_Court_of_Appeal"
+    },
+    {
+     "label": "California Courts – about judicial selection",
+     "url": "https://newsroom.courts.ca.gov/news/what-know-about-judicial-selection"
+    }
+   ],
+   "order": 55
+  },
+  {
+   "id": "ret-richardson",
+   "page": 8,
+   "column": 1,
+   "section": "State Judicial",
+   "type": "retention",
+   "office": "Associate Justice, Court of Appeal, Second District, Division Two",
+   "court": "Court of Appeal, Second District, Division Two",
+   "seatTitle": "Associate Justice",
+   "justice": "Anne Richardson",
+   "background": "Little independent coverage exists for individual appellate justices, and no organized campaign for or against this justice was found. The LA County Bar Association \"strongly endorses\" YES on all justices on this ballot, saying none has had disciplinary issues with the Commission on Judicial Performance.",
+   "options": [
+    "YES",
+    "NO"
+   ],
+   "sources": [
+    {
+     "label": "LACBA – retention election statement",
+     "url": "https://lacba.org/?pg=lacba-news&blAction=showEntry&blogEntry=152564"
+    },
+    {
+     "label": "Ballotpedia – CA Second District Court of Appeal",
+     "url": "https://ballotpedia.org/California_Second_District_Court_of_Appeal"
+    },
+    {
+     "label": "California Courts – about judicial selection",
+     "url": "https://newsroom.courts.ca.gov/news/what-know-about-judicial-selection"
+    }
+   ],
+   "order": 56
+  },
+  {
+   "id": "ret-goorvitch",
+   "page": 8,
+   "column": 2,
+   "section": "State Judicial",
+   "type": "retention",
+   "office": "Associate Justice, Court of Appeal, Second District, Division Two",
+   "court": "Court of Appeal, Second District, Division Two",
+   "seatTitle": "Associate Justice",
+   "justice": "Steve Goorvitch",
+   "background": "Little independent coverage exists for individual appellate justices, and no organized campaign for or against this justice was found. The LA County Bar Association \"strongly endorses\" YES on all justices on this ballot, saying none has had disciplinary issues with the Commission on Judicial Performance.",
+   "options": [
+    "YES",
+    "NO"
+   ],
+   "sources": [
+    {
+     "label": "LACBA – retention election statement",
+     "url": "https://lacba.org/?pg=lacba-news&blAction=showEntry&blogEntry=152564"
+    },
+    {
+     "label": "Ballotpedia – CA Second District Court of Appeal",
+     "url": "https://ballotpedia.org/California_Second_District_Court_of_Appeal"
+    },
+    {
+     "label": "California Courts – about judicial selection",
+     "url": "https://newsroom.courts.ca.gov/news/what-know-about-judicial-selection"
+    }
+   ],
+   "order": 57
+  },
+  {
+   "id": "ret-hanasono",
+   "page": 8,
+   "column": 2,
+   "section": "State Judicial",
+   "type": "retention",
+   "office": "Associate Justice, Court of Appeal, Second District, Division Three",
+   "court": "Court of Appeal, Second District, Division Three",
+   "seatTitle": "Associate Justice",
+   "justice": "Mark Hanasono",
+   "background": "Little independent coverage exists for individual appellate justices, and no organized campaign for or against this justice was found. The LA County Bar Association \"strongly endorses\" YES on all justices on this ballot, saying none has had disciplinary issues with the Commission on Judicial Performance.",
+   "options": [
+    "YES",
+    "NO"
+   ],
+   "sources": [
+    {
+     "label": "LACBA – retention election statement",
+     "url": "https://lacba.org/?pg=lacba-news&blAction=showEntry&blogEntry=152564"
+    },
+    {
+     "label": "Ballotpedia – CA Second District Court of Appeal",
+     "url": "https://ballotpedia.org/California_Second_District_Court_of_Appeal"
+    },
+    {
+     "label": "California Courts – about judicial selection",
+     "url": "https://newsroom.courts.ca.gov/news/what-know-about-judicial-selection"
+    }
+   ],
+   "order": 58
+  },
+  {
+   "id": "ret-daum",
+   "page": 8,
+   "column": 2,
+   "section": "State Judicial",
+   "type": "retention",
+   "office": "Associate Justice, Court of Appeal, Second District, Division Four",
+   "court": "Court of Appeal, Second District, Division Four",
+   "seatTitle": "Associate Justice",
+   "justice": "Nicholas Daum",
+   "background": "Little independent coverage exists for individual appellate justices, and no organized campaign for or against this justice was found. The LA County Bar Association \"strongly endorses\" YES on all justices on this ballot, saying none has had disciplinary issues with the Commission on Judicial Performance.",
+   "options": [
+    "YES",
+    "NO"
+   ],
+   "sources": [
+    {
+     "label": "LACBA – retention election statement",
+     "url": "https://lacba.org/?pg=lacba-news&blAction=showEntry&blogEntry=152564"
+    },
+    {
+     "label": "Ballotpedia – CA Second District Court of Appeal",
+     "url": "https://ballotpedia.org/California_Second_District_Court_of_Appeal"
+    },
+    {
+     "label": "California Courts – about judicial selection",
+     "url": "https://newsroom.courts.ca.gov/news/what-know-about-judicial-selection"
+    }
+   ],
+   "order": 59
+  },
+  {
+   "id": "ret-mori",
+   "page": 8,
+   "column": 2,
+   "section": "State Judicial",
+   "type": "retention",
+   "office": "Associate Justice, Court of Appeal, Second District, Division Four",
+   "court": "Court of Appeal, Second District, Division Four",
+   "seatTitle": "Associate Justice",
+   "justice": "Audra M. Mori",
+   "background": "Little independent coverage exists for individual appellate justices, and no organized campaign for or against this justice was found. The LA County Bar Association \"strongly endorses\" YES on all justices on this ballot, saying none has had disciplinary issues with the Commission on Judicial Performance.",
+   "options": [
+    "YES",
+    "NO"
+   ],
+   "sources": [
+    {
+     "label": "LACBA – retention election statement",
+     "url": "https://lacba.org/?pg=lacba-news&blAction=showEntry&blogEntry=152564"
+    },
+    {
+     "label": "Ballotpedia – CA Second District Court of Appeal",
+     "url": "https://ballotpedia.org/California_Second_District_Court_of_Appeal"
+    },
+    {
+     "label": "California Courts – about judicial selection",
+     "url": "https://newsroom.courts.ca.gov/news/what-know-about-judicial-selection"
+    }
+   ],
+   "order": 60
+  },
+  {
+   "id": "ret-tamzarian",
+   "page": 8,
+   "column": 2,
+   "section": "State Judicial",
+   "type": "retention",
+   "office": "Associate Justice, Court of Appeal, Second District, Division Four",
+   "court": "Court of Appeal, Second District, Division Four",
+   "seatTitle": "Associate Justice",
+   "justice": "Armen Tamzarian",
+   "background": "Little independent coverage exists for individual appellate justices, and no organized campaign for or against this justice was found. The LA County Bar Association \"strongly endorses\" YES on all justices on this ballot, saying none has had disciplinary issues with the Commission on Judicial Performance.",
+   "options": [
+    "YES",
+    "NO"
+   ],
+   "sources": [
+    {
+     "label": "LACBA – retention election statement",
+     "url": "https://lacba.org/?pg=lacba-news&blAction=showEntry&blogEntry=152564"
+    },
+    {
+     "label": "Ballotpedia – CA Second District Court of Appeal",
+     "url": "https://ballotpedia.org/California_Second_District_Court_of_Appeal"
+    },
+    {
+     "label": "California Courts – about judicial selection",
+     "url": "https://newsroom.courts.ca.gov/news/what-know-about-judicial-selection"
+    }
+   ],
+   "order": 61
+  },
+  {
+   "id": "ret-yegan",
+   "page": 8,
+   "column": 3,
+   "section": "State Judicial",
+   "type": "retention",
+   "office": "Associate Justice, Court of Appeal, Second District, Division Six",
+   "court": "Court of Appeal, Second District, Division Six",
+   "seatTitle": "Associate Justice",
+   "justice": "Kenneth R. Yegan",
+   "background": "Little independent coverage exists for individual appellate justices, and no organized campaign for or against this justice was found. The LA County Bar Association \"strongly endorses\" YES on all justices on this ballot, saying none has had disciplinary issues with the Commission on Judicial Performance.",
+   "options": [
+    "YES",
+    "NO"
+   ],
+   "sources": [
+    {
+     "label": "LACBA – retention election statement",
+     "url": "https://lacba.org/?pg=lacba-news&blAction=showEntry&blogEntry=152564"
+    },
+    {
+     "label": "Ballotpedia – CA Second District Court of Appeal",
+     "url": "https://ballotpedia.org/California_Second_District_Court_of_Appeal"
+    },
+    {
+     "label": "California Courts – about judicial selection",
+     "url": "https://newsroom.courts.ca.gov/news/what-know-about-judicial-selection"
+    }
+   ],
+   "order": 62
+  },
+  {
+   "id": "ret-stone",
+   "page": 8,
+   "column": 3,
+   "section": "State Judicial",
+   "type": "retention",
+   "office": "Associate Justice, Court of Appeal, Second District, Division Seven",
+   "court": "Court of Appeal, Second District, Division Seven",
+   "seatTitle": "Associate Justice",
+   "justice": "Natalie Stone",
+   "background": "Little independent coverage exists for individual appellate justices, and no organized campaign for or against this justice was found. The LA County Bar Association \"strongly endorses\" YES on all justices on this ballot, saying none has had disciplinary issues with the Commission on Judicial Performance.",
+   "options": [
+    "YES",
+    "NO"
+   ],
+   "sources": [
+    {
+     "label": "LACBA – retention election statement",
+     "url": "https://lacba.org/?pg=lacba-news&blAction=showEntry&blogEntry=152564"
+    },
+    {
+     "label": "Ballotpedia – CA Second District Court of Appeal",
+     "url": "https://ballotpedia.org/California_Second_District_Court_of_Appeal"
+    },
+    {
+     "label": "California Courts – about judicial selection",
+     "url": "https://newsroom.courts.ca.gov/news/what-know-about-judicial-selection"
+    }
+   ],
+   "order": 63
+  },
+  {
+   "id": "ret-wiley",
+   "page": 8,
+   "column": 3,
+   "section": "State Judicial",
+   "type": "retention",
+   "office": "Associate Justice, Court of Appeal, Second District, Division Eight",
+   "court": "Court of Appeal, Second District, Division Eight",
+   "seatTitle": "Associate Justice",
+   "justice": "John Wiley",
+   "background": "Little independent coverage exists for individual appellate justices, and no organized campaign for or against this justice was found. The LA County Bar Association \"strongly endorses\" YES on all justices on this ballot, saying none has had disciplinary issues with the Commission on Judicial Performance.",
+   "options": [
+    "YES",
+    "NO"
+   ],
+   "sources": [
+    {
+     "label": "LACBA – retention election statement",
+     "url": "https://lacba.org/?pg=lacba-news&blAction=showEntry&blogEntry=152564"
+    },
+    {
+     "label": "Ballotpedia – CA Second District Court of Appeal",
+     "url": "https://ballotpedia.org/California_Second_District_Court_of_Appeal"
+    },
+    {
+     "label": "California Courts – about judicial selection",
+     "url": "https://newsroom.courts.ca.gov/news/what-know-about-judicial-selection"
+    }
+   ],
+   "order": 64
+  },
+  {
+   "id": "ret-scherb",
+   "page": 9,
+   "column": 1,
+   "section": "State Judicial",
+   "type": "retention",
+   "office": "Associate Justice, Court of Appeal, Second District, Division Eight",
+   "court": "Court of Appeal, Second District, Division Eight",
+   "seatTitle": "Associate Justice",
+   "justice": "Matthew A. Scherb",
+   "background": "Little independent coverage exists for individual appellate justices, and no organized campaign for or against this justice was found. The LA County Bar Association \"strongly endorses\" YES on all justices on this ballot, saying none has had disciplinary issues with the Commission on Judicial Performance.",
+   "options": [
+    "YES",
+    "NO"
+   ],
+   "sources": [
+    {
+     "label": "LACBA – retention election statement",
+     "url": "https://lacba.org/?pg=lacba-news&blAction=showEntry&blogEntry=152564"
+    },
+    {
+     "label": "Ballotpedia – CA Second District Court of Appeal",
+     "url": "https://ballotpedia.org/California_Second_District_Court_of_Appeal"
+    },
+    {
+     "label": "California Courts – about judicial selection",
+     "url": "https://newsroom.courts.ca.gov/news/what-know-about-judicial-selection"
+    }
+   ],
+   "order": 65
+  },
+  {
+   "id": "ret-viramontes",
+   "page": 9,
+   "column": 1,
+   "section": "State Judicial",
+   "type": "retention",
+   "office": "Associate Justice, Court of Appeal, Second District, Division Eight",
+   "court": "Court of Appeal, Second District, Division Eight",
+   "seatTitle": "Associate Justice",
+   "justice": "Victor G. Viramontes",
+   "background": "Little independent coverage exists for individual appellate justices, and no organized campaign for or against this justice was found. The LA County Bar Association \"strongly endorses\" YES on all justices on this ballot, saying none has had disciplinary issues with the Commission on Judicial Performance.",
+   "options": [
+    "YES",
+    "NO"
+   ],
+   "sources": [
+    {
+     "label": "LACBA – retention election statement",
+     "url": "https://lacba.org/?pg=lacba-news&blAction=showEntry&blogEntry=152564"
+    },
+    {
+     "label": "Ballotpedia – CA Second District Court of Appeal",
+     "url": "https://ballotpedia.org/California_Second_District_Court_of_Appeal"
+    },
+    {
+     "label": "California Courts – about judicial selection",
+     "url": "https://newsroom.courts.ca.gov/news/what-know-about-judicial-selection"
+    }
+   ],
+   "order": 66
+  }
+ ]
+}
